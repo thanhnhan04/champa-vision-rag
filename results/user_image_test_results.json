@@ -1,0 +1,210 @@
+{
+  "CLIP (ViT-B/32)": [
+    {
+      "rank": 1,
+      "similarity": 0.892336368560791,
+      "image_id": "IMG_64805126",
+      "artifact_id": "COMMONS_64805126",
+      "title": "Vietnam, figurina di dea, forse uma, periodo champa, IX-X secolo 01",
+      "era": NaN,
+      "material": NaN,
+      "location": "Museum of Cham Sculpture"
+    },
+    {
+      "rank": 2,
+      "similarity": 0.8795199394226074,
+      "image_id": "IMG_64805127",
+      "artifact_id": "COMMONS_64805126",
+      "title": "Vietnam, figurina di dea, forse uma, periodo champa, IX-X secolo 01",
+      "era": NaN,
+      "material": NaN,
+      "location": "Museum of Cham Sculpture"
+    },
+    {
+      "rank": 3,
+      "similarity": 0.8672196865081787,
+      "image_id": "IMG_95035936",
+      "artifact_id": "COMMONS_95035950",
+      "title": "Champa Bronze (9980515865)",
+      "era": NaN,
+      "material": "Đồng (Bronze)",
+      "location": "Museum of Cham Sculpture"
+    },
+    {
+      "rank": 4,
+      "similarity": 0.8576438426971436,
+      "image_id": "IMG_Q106654903",
+      "artifact_id": "WIKIDATA_Q106654903",
+      "title": "Boddhisattva Tara",
+      "era": NaN,
+      "material": "bronze",
+      "location": "Museum of Cham Sculpture"
+    },
+    {
+      "rank": 5,
+      "similarity": 0.8569253087043762,
+      "image_id": "IMG_149130925",
+      "artifact_id": "COMMONS_149130795",
+      "title": "Bảo tàng LsTp, Cổ vật Chăm (tượng người) (1)",
+      "era": NaN,
+      "material": NaN,
+      "location": "Museum of Cham Sculpture"
+    }
+  ],
+  "SigLIP (vit-base)": [
+    {
+      "rank": 1,
+      "similarity": 0.8890054225921631,
+      "image_id": "IMG_Q131983320",
+      "artifact_id": "WIKIDATA_Q131983320",
+      "title": "My Son C1 Shiva statue",
+      "era": "0800-01-01",
+      "material": "sandstone",
+      "location": "Museum of Cham Sculpture"
+    },
+    {
+      "rank": 2,
+      "similarity": 0.8884692788124084,
+      "image_id": "IMG_51462833",
+      "artifact_id": "COMMONS_51462833",
+      "title": "Bodhisattva Avalokitesvara, the Museum of Vietnamese History",
+      "era": NaN,
+      "material": "Đồng (Bronze)",
+      "location": "Museum of Cham Sculpture"
+    },
+    {
+      "rank": 3,
+      "similarity": 0.8870108127593994,
+      "image_id": "IMG_95035935",
+      "artifact_id": "COMMONS_95035950",
+      "title": "Champa Bronze (9980515865)",
+      "era": NaN,
+      "material": "Đồng (Bronze)",
+      "location": "Museum of Cham Sculpture"
+    },
+    {
+      "rank": 4,
+      "similarity": 0.8784112930297852,
+      "image_id": "IMG_Q106654903",
+      "artifact_id": "WIKIDATA_Q106654903",
+      "title": "Boddhisattva Tara",
+      "era": NaN,
+      "material": "bronze",
+      "location": "Museum of Cham Sculpture"
+    },
+    {
+      "rank": 5,
+      "similarity": 0.8705971837043762,
+      "image_id": "IMG_149130920",
+      "artifact_id": "COMMONS_149130795",
+      "title": "Bảo tàng LsTp, Cổ vật Chăm (tượng người) (1)",
+      "era": NaN,
+      "material": NaN,
+      "location": "Museum of Cham Sculpture"
+    }
+  ],
+  "DINOv2 (dinov2-base)": [
+    {
+      "rank": 1,
+      "similarity": 0.8034888505935669,
+      "image_id": "IMG_Q106654903",
+      "artifact_id": "WIKIDATA_Q106654903",
+      "title": "Boddhisattva Tara",
+      "era": NaN,
+      "material": "bronze",
+      "location": "Museum of Cham Sculpture"
+    },
+    {
+      "rank": 2,
+      "similarity": 0.7981323003768921,
+      "image_id": "IMG_64805126",
+      "artifact_id": "COMMONS_64805126",
+      "title": "Vietnam, figurina di dea, forse uma, periodo champa, IX-X secolo 01",
+      "era": NaN,
+      "material": NaN,
+      "location": "Museum of Cham Sculpture"
+    },
+    {
+      "rank": 3,
+      "similarity": 0.784011960029602,
+      "image_id": "IMG_64805127",
+      "artifact_id": "COMMONS_64805126",
+      "title": "Vietnam, figurina di dea, forse uma, periodo champa, IX-X secolo 01",
+      "era": NaN,
+      "material": NaN,
+      "location": "Museum of Cham Sculpture"
+    },
+    {
+      "rank": 4,
+      "similarity": 0.7717534303665161,
+      "image_id": "IMG_Q131983320",
+      "artifact_id": "WIKIDATA_Q131983320",
+      "title": "My Son C1 Shiva statue",
+      "era": "0800-01-01",
+      "material": "sandstone",
+      "location": "Museum of Cham Sculpture"
+    },
+    {
+      "rank": 5,
+      "similarity": 0.7620846629142761,
+      "image_id": "IMG_95035936",
+      "artifact_id": "COMMONS_95035950",
+      "title": "Champa Bronze (9980515865)",
+      "era": NaN,
+      "material": "Đồng (Bronze)",
+      "location": "Museum of Cham Sculpture"
+    }
+  ],
+  "Weighted (0.7 CLIP + 0.3 DINOv2)": [
+    {
+      "rank": 1,
+      "similarity": 0.8640749454498291,
+      "image_id": "IMG_64805126",
+      "artifact_id": "COMMONS_64805126",
+      "title": "Vietnam, figurina di dea, forse uma, periodo champa, IX-X secolo 01",
+      "era": NaN,
+      "material": NaN,
+      "location": "Museum of Cham Sculpture"
+    },
+    {
+      "rank": 2,
+      "similarity": 0.850867509841919,
+      "image_id": "IMG_64805127",
+      "artifact_id": "COMMONS_64805126",
+      "title": "Vietnam, figurina di dea, forse uma, periodo champa, IX-X secolo 01",
+      "era": NaN,
+      "material": NaN,
+      "location": "Museum of Cham Sculpture"
+    },
+    {
+      "rank": 3,
+      "similarity": 0.8413971662521362,
+      "image_id": "IMG_Q106654903",
+      "artifact_id": "WIKIDATA_Q106654903",
+      "title": "Boddhisattva Tara",
+      "era": NaN,
+      "material": "bronze",
+      "location": "Museum of Cham Sculpture"
+    },
+    {
+      "rank": 4,
+      "similarity": 0.8356793522834778,
+      "image_id": "IMG_95035936",
+      "artifact_id": "COMMONS_95035950",
+      "title": "Champa Bronze (9980515865)",
+      "era": NaN,
+      "material": "Đồng (Bronze)",
+      "location": "Museum of Cham Sculpture"
+    },
+    {
+      "rank": 5,
+      "similarity": 0.8291490077972412,
+      "image_id": "IMG_Q131983320",
+      "artifact_id": "WIKIDATA_Q131983320",
+      "title": "My Son C1 Shiva statue",
+      "era": "0800-01-01",
+      "material": "sandstone",
+      "location": "Museum of Cham Sculpture"
+    }
+  ]
+}

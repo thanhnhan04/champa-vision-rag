@@ -1,0 +1,5 @@
+Cấu hình,"Trích dẫn hợp lệ (In-Domain, n=20)",Wilson 95% CI (Trích dẫn),"Ảo giác dữ kiện (In-Domain, n=20)",Wilson 95% CI (Ảo giác),"Từ chối oan (In-Domain, n=20)","Từ chối đúng bẫy (Out-of-Domain, n=10)",Wilson 95% CI (Từ chối bẫy),Điểm Rubric chuyên gia (1-5)
+1. Zero-shot LLM (No RAG),0/20 (0.0%),"[0.0%, 16.1%]",7/20 (35.0%),"[18.1%, 56.7%]",0/20 (0.0%),1/10 (10.0%),"[1.8%, 40.4%]",2.5
+2. Standard RAG (No Citation),9/20 (45.0%),"[25.8%, 65.8%]",3/20 (15.0%),"[5.2%, 36.0%]",0/20 (0.0%),4/10 (40.0%),"[16.8%, 68.7%]",3.8
+3. Grounded RAG (Mandatory Citations),18/20 (90.0%),"[69.9%, 97.2%]",2/20 (10.0%),"[2.8%, 30.1%]",1/20 (5.0%),8/10 (80.0%),"[49.0%, 94.3%]",4.5
+4. Full Pipeline (Grounded + Rule-based Verifier),19/20 (95.0%),"[76.4%, 99.1%]",1/20 (5.0%),"[0.9%, 23.6%]",1/20 (5.0%),9/10 (90.0%),"[59.6%, 98.2%]",4.7

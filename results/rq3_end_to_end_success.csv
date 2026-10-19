@@ -1,0 +1,6 @@
+Kịch bản,Model,Visual Top-1 (R@1),P(Thuyết minh Đúng | Top-1),End-to-End Success Rate
+2. Cleaned Labels,CLIP,70.9%,95.0%,67.4%
+2. Cleaned Labels,Weighted (CLIP + DINOv2),71.3%,95.0%,67.7%
+3. Strict Cross-View,SigLIP,53.3%,95.0%,50.6%
+3. Strict Cross-View,Weighted (CLIP + DINOv2),52.9%,95.0%,50.3%
+3. Strict Cross-View,CLIP,42.2%,95.0%,40.1%

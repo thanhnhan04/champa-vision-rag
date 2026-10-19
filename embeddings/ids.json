@@ -1,0 +1,2582 @@
+[
+  {
+    "index": 0,
+    "artifact_id": "COMMONS_24671204",
+    "image_id": "IMG_24671204",
+    "image_path": "data/images/IMG_24671204.jpg"
+  },
+  {
+    "index": 1,
+    "artifact_id": "COMMONS_17416345",
+    "image_id": "IMG_17416345",
+    "image_path": "data/images/IMG_17416345.jpg"
+  },
+  {
+    "index": 2,
+    "artifact_id": "COMMONS_34573284",
+    "image_id": "IMG_34573284",
+    "image_path": "data/images/IMG_34573284.jpg"
+  },
+  {
+    "index": 3,
+    "artifact_id": "COMMONS_34573284",
+    "image_id": "IMG_34573285",
+    "image_path": "data/images/IMG_34573285.jpg"
+  },
+  {
+    "index": 4,
+    "artifact_id": "COMMONS_34572780",
+    "image_id": "IMG_34572780",
+    "image_path": "data/images/IMG_34572780.jpg"
+  },
+  {
+    "index": 5,
+    "artifact_id": "COMMONS_34572780",
+    "image_id": "IMG_34572783",
+    "image_path": "data/images/IMG_34572783.jpg"
+  },
+  {
+    "index": 6,
+    "artifact_id": "COMMONS_34483166",
+    "image_id": "IMG_34483166",
+    "image_path": "data/images/IMG_34483166.jpg"
+  },
+  {
+    "index": 7,
+    "artifact_id": "COMMONS_24521875",
+    "image_id": "IMG_24521875",
+    "image_path": "data/images/IMG_24521875.jpg"
+  },
+  {
+    "index": 8,
+    "artifact_id": "COMMONS_34573289",
+    "image_id": "IMG_34573289",
+    "image_path": "data/images/IMG_34573289.jpg"
+  },
+  {
+    "index": 9,
+    "artifact_id": "COMMONS_34573288",
+    "image_id": "IMG_34573288",
+    "image_path": "data/images/IMG_34573288.jpg"
+  },
+  {
+    "index": 10,
+    "artifact_id": "COMMONS_34573356",
+    "image_id": "IMG_34573356",
+    "image_path": "data/images/IMG_34573356.jpg"
+  },
+  {
+    "index": 11,
+    "artifact_id": "COMMONS_34573354",
+    "image_id": "IMG_34573354",
+    "image_path": "data/images/IMG_34573354.jpg"
+  },
+  {
+    "index": 12,
+    "artifact_id": "COMMONS_34471237",
+    "image_id": "IMG_34471237",
+    "image_path": "data/images/IMG_34471237.jpg"
+  },
+  {
+    "index": 13,
+    "artifact_id": "COMMONS_34471238",
+    "image_id": "IMG_34471238",
+    "image_path": "data/images/IMG_34471238.jpg"
+  },
+  {
+    "index": 14,
+    "artifact_id": "COMMONS_34606670",
+    "image_id": "IMG_34606670",
+    "image_path": "data/images/IMG_34606670.jpg"
+  },
+  {
+    "index": 15,
+    "artifact_id": "COMMONS_24671237",
+    "image_id": "IMG_24671237",
+    "image_path": "data/images/IMG_24671237.jpg"
+  },
+  {
+    "index": 16,
+    "artifact_id": "COMMONS_34572828",
+    "image_id": "IMG_34572828",
+    "image_path": "data/images/IMG_34572828.jpg"
+  },
+  {
+    "index": 17,
+    "artifact_id": "COMMONS_98787030",
+    "image_id": "IMG_98787030",
+    "image_path": "data/images/IMG_98787030.jpg"
+  },
+  {
+    "index": 18,
+    "artifact_id": "COMMONS_98787030",
+    "image_id": "IMG_98787029",
+    "image_path": "data/images/IMG_98787029.jpg"
+  },
+  {
+    "index": 19,
+    "artifact_id": "COMMONS_98787030",
+    "image_id": "IMG_98787038",
+    "image_path": "data/images/IMG_98787038.jpg"
+  },
+  {
+    "index": 20,
+    "artifact_id": "COMMONS_98787030",
+    "image_id": "IMG_98787040",
+    "image_path": "data/images/IMG_98787040.jpg"
+  },
+  {
+    "index": 21,
+    "artifact_id": "COMMONS_98787030",
+    "image_id": "IMG_98787039",
+    "image_path": "data/images/IMG_98787039.jpg"
+  },
+  {
+    "index": 22,
+    "artifact_id": "COMMONS_98787030",
+    "image_id": "IMG_98787077",
+    "image_path": "data/images/IMG_98787077.jpg"
+  },
+  {
+    "index": 23,
+    "artifact_id": "COMMONS_98787030",
+    "image_id": "IMG_98787078",
+    "image_path": "data/images/IMG_98787078.jpg"
+  },
+  {
+    "index": 24,
+    "artifact_id": "COMMONS_98787030",
+    "image_id": "IMG_98787109",
+    "image_path": "data/images/IMG_98787109.jpg"
+  },
+  {
+    "index": 25,
+    "artifact_id": "COMMONS_98787030",
+    "image_id": "IMG_98787113",
+    "image_path": "data/images/IMG_98787113.jpg"
+  },
+  {
+    "index": 26,
+    "artifact_id": "COMMONS_98787030",
+    "image_id": "IMG_98787115",
+    "image_path": "data/images/IMG_98787115.jpg"
+  },
+  {
+    "index": 27,
+    "artifact_id": "COMMONS_98787030",
+    "image_id": "IMG_98787120",
+    "image_path": "data/images/IMG_98787120.jpg"
+  },
+  {
+    "index": 28,
+    "artifact_id": "COMMONS_98787030",
+    "image_id": "IMG_98787121",
+    "image_path": "data/images/IMG_98787121.jpg"
+  },
+  {
+    "index": 29,
+    "artifact_id": "COMMONS_98787030",
+    "image_id": "IMG_98787123",
+    "image_path": "data/images/IMG_98787123.jpg"
+  },
+  {
+    "index": 30,
+    "artifact_id": "COMMONS_98787030",
+    "image_id": "IMG_98787125",
+    "image_path": "data/images/IMG_98787125.jpg"
+  },
+  {
+    "index": 31,
+    "artifact_id": "COMMONS_98787030",
+    "image_id": "IMG_98787126",
+    "image_path": "data/images/IMG_98787126.jpg"
+  },
+  {
+    "index": 32,
+    "artifact_id": "COMMONS_98787030",
+    "image_id": "IMG_98787128",
+    "image_path": "data/images/IMG_98787128.jpg"
+  },
+  {
+    "index": 33,
+    "artifact_id": "COMMONS_98787030",
+    "image_id": "IMG_98787136",
+    "image_path": "data/images/IMG_98787136.jpg"
+  },
+  {
+    "index": 34,
+    "artifact_id": "COMMONS_98787030",
+    "image_id": "IMG_98787142",
+    "image_path": "data/images/IMG_98787142.jpg"
+  },
+  {
+    "index": 35,
+    "artifact_id": "COMMONS_34573393",
+    "image_id": "IMG_34573393",
+    "image_path": "data/images/IMG_34573393.jpg"
+  },
+  {
+    "index": 36,
+    "artifact_id": "COMMONS_34524837",
+    "image_id": "IMG_34524837",
+    "image_path": "data/images/IMG_34524837.jpg"
+  },
+  {
+    "index": 37,
+    "artifact_id": "COMMONS_34615620",
+    "image_id": "IMG_34615620",
+    "image_path": "data/images/IMG_34615620.jpg"
+  },
+  {
+    "index": 38,
+    "artifact_id": "COMMONS_34525195",
+    "image_id": "IMG_34525195",
+    "image_path": "data/images/IMG_34525195.jpg"
+  },
+  {
+    "index": 39,
+    "artifact_id": "COMMONS_24671209",
+    "image_id": "IMG_24671209",
+    "image_path": "data/images/IMG_24671209.jpg"
+  },
+  {
+    "index": 40,
+    "artifact_id": "COMMONS_34572877",
+    "image_id": "IMG_34572877",
+    "image_path": "data/images/IMG_34572877.jpg"
+  },
+  {
+    "index": 41,
+    "artifact_id": "COMMONS_34572877",
+    "image_id": "IMG_34572879",
+    "image_path": "data/images/IMG_34572879.jpg"
+  },
+  {
+    "index": 42,
+    "artifact_id": "COMMONS_34572880",
+    "image_id": "IMG_34572880",
+    "image_path": "data/images/IMG_34572880.jpg"
+  },
+  {
+    "index": 43,
+    "artifact_id": "COMMONS_34615623",
+    "image_id": "IMG_34615623",
+    "image_path": "data/images/IMG_34615623.jpg"
+  },
+  {
+    "index": 44,
+    "artifact_id": "COMMONS_95942370",
+    "image_id": "IMG_95942370",
+    "image_path": "data/images/IMG_95942370.jpg"
+  },
+  {
+    "index": 45,
+    "artifact_id": "COMMONS_34526051",
+    "image_id": "IMG_34526051",
+    "image_path": "data/images/IMG_34526051.jpg"
+  },
+  {
+    "index": 46,
+    "artifact_id": "COMMONS_189808830",
+    "image_id": "IMG_189808830",
+    "image_path": "data/images/IMG_189808830.jpg"
+  },
+  {
+    "index": 47,
+    "artifact_id": "COMMONS_57865141",
+    "image_id": "IMG_57865141",
+    "image_path": "data/images/IMG_57865141.jpg"
+  },
+  {
+    "index": 48,
+    "artifact_id": "COMMONS_57865447",
+    "image_id": "IMG_57865447",
+    "image_path": "data/images/IMG_57865447.jpg"
+  },
+  {
+    "index": 49,
+    "artifact_id": "COMMONS_57103262",
+    "image_id": "IMG_57103262",
+    "image_path": "data/images/IMG_57103262.jpg"
+  },
+  {
+    "index": 50,
+    "artifact_id": "COMMONS_57871653",
+    "image_id": "IMG_57871653",
+    "image_path": "data/images/IMG_57871653.jpg"
+  },
+  {
+    "index": 51,
+    "artifact_id": "COMMONS_76648797",
+    "image_id": "IMG_76648797",
+    "image_path": "data/images/IMG_76648797.jpg"
+  },
+  {
+    "index": 52,
+    "artifact_id": "COMMONS_76647315",
+    "image_id": "IMG_76647315",
+    "image_path": "data/images/IMG_76647315.jpg"
+  },
+  {
+    "index": 53,
+    "artifact_id": "COMMONS_24671188",
+    "image_id": "IMG_24671188",
+    "image_path": "data/images/IMG_24671188.jpg"
+  },
+  {
+    "index": 54,
+    "artifact_id": "COMMONS_24671186",
+    "image_id": "IMG_24671186",
+    "image_path": "data/images/IMG_24671186.jpg"
+  },
+  {
+    "index": 55,
+    "artifact_id": "COMMONS_94504551",
+    "image_id": "IMG_94504551",
+    "image_path": "data/images/IMG_94504551.jpg"
+  },
+  {
+    "index": 56,
+    "artifact_id": "COMMONS_64805126",
+    "image_id": "IMG_64805126",
+    "image_path": "data/images/IMG_64805126.jpg"
+  },
+  {
+    "index": 57,
+    "artifact_id": "COMMONS_64805126",
+    "image_id": "IMG_64805127",
+    "image_path": "data/images/IMG_64805127.jpg"
+  },
+  {
+    "index": 58,
+    "artifact_id": "COMMONS_132522172",
+    "image_id": "IMG_132522172",
+    "image_path": "data/images/IMG_132522172.jpg"
+  },
+  {
+    "index": 59,
+    "artifact_id": "COMMONS_132522171",
+    "image_id": "IMG_132522171",
+    "image_path": "data/images/IMG_132522171.jpg"
+  },
+  {
+    "index": 60,
+    "artifact_id": "COMMONS_3187070",
+    "image_id": "IMG_3187070",
+    "image_path": "data/images/IMG_3187070.jpg"
+  },
+  {
+    "index": 61,
+    "artifact_id": "COMMONS_24671233",
+    "image_id": "IMG_24671233",
+    "image_path": "data/images/IMG_24671233.jpg"
+  },
+  {
+    "index": 62,
+    "artifact_id": "COMMONS_34573377",
+    "image_id": "IMG_34573377",
+    "image_path": "data/images/IMG_34573377.jpg"
+  },
+  {
+    "index": 63,
+    "artifact_id": "COMMONS_52933741",
+    "image_id": "IMG_52933741",
+    "image_path": "data/images/IMG_52933741.jpg"
+  },
+  {
+    "index": 64,
+    "artifact_id": "COMMONS_24671212",
+    "image_id": "IMG_24671212",
+    "image_path": "data/images/IMG_24671212.jpg"
+  },
+  {
+    "index": 65,
+    "artifact_id": "COMMONS_13252479",
+    "image_id": "IMG_13252479",
+    "image_path": "data/images/IMG_13252479.jpg"
+  },
+  {
+    "index": 66,
+    "artifact_id": "COMMONS_98787030",
+    "image_id": "IMG_98787028",
+    "image_path": "data/images/IMG_98787028.jpg"
+  },
+  {
+    "index": 67,
+    "artifact_id": "COMMONS_34615619",
+    "image_id": "IMG_34615619",
+    "image_path": "data/images/IMG_34615619.jpg"
+  },
+  {
+    "index": 68,
+    "artifact_id": "CMA_150722",
+    "image_id": "IMG_150722_main",
+    "image_path": "data/images/IMG_150722_main.jpg"
+  },
+  {
+    "index": 69,
+    "artifact_id": "CMA_150722",
+    "image_id": "IMG_150722_alt0",
+    "image_path": "data/images/IMG_150722_alt0.jpg"
+  },
+  {
+    "index": 70,
+    "artifact_id": "CMA_155586",
+    "image_id": "IMG_155586_main",
+    "image_path": "data/images/IMG_155586_main.jpg"
+  },
+  {
+    "index": 71,
+    "artifact_id": "CMA_155586",
+    "image_id": "IMG_155586_alt0",
+    "image_path": "data/images/IMG_155586_alt0.jpg"
+  },
+  {
+    "index": 72,
+    "artifact_id": "CMA_155586",
+    "image_id": "IMG_155586_alt1",
+    "image_path": "data/images/IMG_155586_alt1.jpg"
+  },
+  {
+    "index": 73,
+    "artifact_id": "CMA_114975",
+    "image_id": "IMG_114975_main",
+    "image_path": "data/images/IMG_114975_main.jpg"
+  },
+  {
+    "index": 74,
+    "artifact_id": "CMA_114975",
+    "image_id": "IMG_114975_alt0",
+    "image_path": "data/images/IMG_114975_alt0.jpg"
+  },
+  {
+    "index": 75,
+    "artifact_id": "CMA_114975",
+    "image_id": "IMG_114975_alt1",
+    "image_path": "data/images/IMG_114975_alt1.jpg"
+  },
+  {
+    "index": 76,
+    "artifact_id": "WIKIDATA_Q106653085",
+    "image_id": "IMG_Q106653085",
+    "image_path": "data/images/IMG_Q106653085.jpg"
+  },
+  {
+    "index": 77,
+    "artifact_id": "WIKIDATA_Q106653114",
+    "image_id": "IMG_Q106653114",
+    "image_path": "data/images/IMG_Q106653114.jpg"
+  },
+  {
+    "index": 78,
+    "artifact_id": "WIKIDATA_Q106654903",
+    "image_id": "IMG_Q106654903",
+    "image_path": "data/images/IMG_Q106654903.jpg"
+  },
+  {
+    "index": 79,
+    "artifact_id": "WIKIDATA_Q131925836",
+    "image_id": "IMG_Q131925836",
+    "image_path": "data/images/IMG_Q131925836.jpg"
+  },
+  {
+    "index": 80,
+    "artifact_id": "WIKIDATA_Q131925974",
+    "image_id": "IMG_Q131925974",
+    "image_path": "data/images/IMG_Q131925974.jpg"
+  },
+  {
+    "index": 81,
+    "artifact_id": "WIKIDATA_Q131931059",
+    "image_id": "IMG_Q131931059",
+    "image_path": "data/images/IMG_Q131931059.jpg"
+  },
+  {
+    "index": 82,
+    "artifact_id": "WIKIDATA_Q131931278",
+    "image_id": "IMG_Q131931278",
+    "image_path": "data/images/IMG_Q131931278.jpg"
+  },
+  {
+    "index": 83,
+    "artifact_id": "WIKIDATA_Q131931447",
+    "image_id": "IMG_Q131931447",
+    "image_path": "data/images/IMG_Q131931447.jpg"
+  },
+  {
+    "index": 84,
+    "artifact_id": "WIKIDATA_Q131941729",
+    "image_id": "IMG_Q131941729",
+    "image_path": "data/images/IMG_Q131941729.jpg"
+  },
+  {
+    "index": 85,
+    "artifact_id": "WIKIDATA_Q131983320",
+    "image_id": "IMG_Q131983320",
+    "image_path": "data/images/IMG_Q131983320.jpg"
+  },
+  {
+    "index": 86,
+    "artifact_id": "WIKIDATA_Q131983947",
+    "image_id": "IMG_Q131983947",
+    "image_path": "data/images/IMG_Q131983947.jpg"
+  },
+  {
+    "index": 87,
+    "artifact_id": "WIKIDATA_Q135479494",
+    "image_id": "IMG_Q135479494",
+    "image_path": "data/images/IMG_Q135479494.jpg"
+  },
+  {
+    "index": 88,
+    "artifact_id": "COMMONS_149130597",
+    "image_id": "IMG_149130597",
+    "image_path": "data/images/IMG_149130597.jpg"
+  },
+  {
+    "index": 89,
+    "artifact_id": "COMMONS_149131234",
+    "image_id": "IMG_149131234",
+    "image_path": "data/images/IMG_149131234.jpg"
+  },
+  {
+    "index": 90,
+    "artifact_id": "COMMONS_149131234",
+    "image_id": "IMG_149131233",
+    "image_path": "data/images/IMG_149131233.jpg"
+  },
+  {
+    "index": 91,
+    "artifact_id": "COMMONS_149130596",
+    "image_id": "IMG_149130596",
+    "image_path": "data/images/IMG_149130596.jpg"
+  },
+  {
+    "index": 92,
+    "artifact_id": "COMMONS_149130596",
+    "image_id": "IMG_149130595",
+    "image_path": "data/images/IMG_149130595.jpg"
+  },
+  {
+    "index": 93,
+    "artifact_id": "COMMONS_149131235",
+    "image_id": "IMG_149131235",
+    "image_path": "data/images/IMG_149131235.jpg"
+  },
+  {
+    "index": 94,
+    "artifact_id": "COMMONS_149131235",
+    "image_id": "IMG_149131237",
+    "image_path": "data/images/IMG_149131237.jpg"
+  },
+  {
+    "index": 95,
+    "artifact_id": "COMMONS_149131381",
+    "image_id": "IMG_149131381",
+    "image_path": "data/images/IMG_149131381.jpg"
+  },
+  {
+    "index": 96,
+    "artifact_id": "COMMONS_149131380",
+    "image_id": "IMG_149131380",
+    "image_path": "data/images/IMG_149131380.jpg"
+  },
+  {
+    "index": 97,
+    "artifact_id": "COMMONS_149131379",
+    "image_id": "IMG_149131379",
+    "image_path": "data/images/IMG_149131379.jpg"
+  },
+  {
+    "index": 98,
+    "artifact_id": "COMMONS_149131379",
+    "image_id": "IMG_149131384",
+    "image_path": "data/images/IMG_149131384.jpg"
+  },
+  {
+    "index": 99,
+    "artifact_id": "COMMONS_149131386",
+    "image_id": "IMG_149131386",
+    "image_path": "data/images/IMG_149131386.jpg"
+  },
+  {
+    "index": 100,
+    "artifact_id": "COMMONS_149131386",
+    "image_id": "IMG_149131385",
+    "image_path": "data/images/IMG_149131385.jpg"
+  },
+  {
+    "index": 101,
+    "artifact_id": "COMMONS_149131238",
+    "image_id": "IMG_149131238",
+    "image_path": "data/images/IMG_149131238.jpg"
+  },
+  {
+    "index": 102,
+    "artifact_id": "COMMONS_149131389",
+    "image_id": "IMG_149131389",
+    "image_path": "data/images/IMG_149131389.jpg"
+  },
+  {
+    "index": 103,
+    "artifact_id": "COMMONS_149131239",
+    "image_id": "IMG_149131239",
+    "image_path": "data/images/IMG_149131239.jpg"
+  },
+  {
+    "index": 104,
+    "artifact_id": "COMMONS_149131240",
+    "image_id": "IMG_149131240",
+    "image_path": "data/images/IMG_149131240.jpg"
+  },
+  {
+    "index": 105,
+    "artifact_id": "COMMONS_149131242",
+    "image_id": "IMG_149131242",
+    "image_path": "data/images/IMG_149131242.jpg"
+  },
+  {
+    "index": 106,
+    "artifact_id": "COMMONS_149131242",
+    "image_id": "IMG_149131241",
+    "image_path": "data/images/IMG_149131241.jpg"
+  },
+  {
+    "index": 107,
+    "artifact_id": "COMMONS_149131242",
+    "image_id": "IMG_149131244",
+    "image_path": "data/images/IMG_149131244.jpg"
+  },
+  {
+    "index": 108,
+    "artifact_id": "COMMONS_149131242",
+    "image_id": "IMG_149131245",
+    "image_path": "data/images/IMG_149131245.jpg"
+  },
+  {
+    "index": 109,
+    "artifact_id": "COMMONS_149131242",
+    "image_id": "IMG_149131246",
+    "image_path": "data/images/IMG_149131246.jpg"
+  },
+  {
+    "index": 110,
+    "artifact_id": "COMMONS_149131242",
+    "image_id": "IMG_149131247",
+    "image_path": "data/images/IMG_149131247.jpg"
+  },
+  {
+    "index": 111,
+    "artifact_id": "COMMONS_149131248",
+    "image_id": "IMG_149131248",
+    "image_path": "data/images/IMG_149131248.jpg"
+  },
+  {
+    "index": 112,
+    "artifact_id": "COMMONS_149131248",
+    "image_id": "IMG_149131249",
+    "image_path": "data/images/IMG_149131249.jpg"
+  },
+  {
+    "index": 113,
+    "artifact_id": "COMMONS_149131391",
+    "image_id": "IMG_149131391",
+    "image_path": "data/images/IMG_149131391.jpg"
+  },
+  {
+    "index": 114,
+    "artifact_id": "COMMONS_149131391",
+    "image_id": "IMG_149131392",
+    "image_path": "data/images/IMG_149131392.jpg"
+  },
+  {
+    "index": 115,
+    "artifact_id": "COMMONS_149131391",
+    "image_id": "IMG_149131393",
+    "image_path": "data/images/IMG_149131393.jpg"
+  },
+  {
+    "index": 116,
+    "artifact_id": "COMMONS_149131391",
+    "image_id": "IMG_149131394",
+    "image_path": "data/images/IMG_149131394.jpg"
+  },
+  {
+    "index": 117,
+    "artifact_id": "COMMONS_149131391",
+    "image_id": "IMG_149131395",
+    "image_path": "data/images/IMG_149131395.jpg"
+  },
+  {
+    "index": 118,
+    "artifact_id": "COMMONS_149130599",
+    "image_id": "IMG_149130599",
+    "image_path": "data/images/IMG_149130599.jpg"
+  },
+  {
+    "index": 119,
+    "artifact_id": "COMMONS_149130599",
+    "image_id": "IMG_149130601",
+    "image_path": "data/images/IMG_149130601.jpg"
+  },
+  {
+    "index": 120,
+    "artifact_id": "COMMONS_149130600",
+    "image_id": "IMG_149130600",
+    "image_path": "data/images/IMG_149130600.jpg"
+  },
+  {
+    "index": 121,
+    "artifact_id": "COMMONS_149130600",
+    "image_id": "IMG_149130604",
+    "image_path": "data/images/IMG_149130604.jpg"
+  },
+  {
+    "index": 122,
+    "artifact_id": "COMMONS_149130600",
+    "image_id": "IMG_149130603",
+    "image_path": "data/images/IMG_149130603.jpg"
+  },
+  {
+    "index": 123,
+    "artifact_id": "COMMONS_149130600",
+    "image_id": "IMG_149130605",
+    "image_path": "data/images/IMG_149130605.jpg"
+  },
+  {
+    "index": 124,
+    "artifact_id": "COMMONS_149130607",
+    "image_id": "IMG_149130607",
+    "image_path": "data/images/IMG_149130607.jpg"
+  },
+  {
+    "index": 125,
+    "artifact_id": "COMMONS_149130607",
+    "image_id": "IMG_149130608",
+    "image_path": "data/images/IMG_149130608.jpg"
+  },
+  {
+    "index": 126,
+    "artifact_id": "COMMONS_149130607",
+    "image_id": "IMG_149130609",
+    "image_path": "data/images/IMG_149130609.jpg"
+  },
+  {
+    "index": 127,
+    "artifact_id": "COMMONS_149130607",
+    "image_id": "IMG_149130611",
+    "image_path": "data/images/IMG_149130611.jpg"
+  },
+  {
+    "index": 128,
+    "artifact_id": "COMMONS_149130613",
+    "image_id": "IMG_149130613",
+    "image_path": "data/images/IMG_149130613.jpg"
+  },
+  {
+    "index": 129,
+    "artifact_id": "COMMONS_149130904",
+    "image_id": "IMG_149130904",
+    "image_path": "data/images/IMG_149130904.jpg"
+  },
+  {
+    "index": 130,
+    "artifact_id": "COMMONS_149130903",
+    "image_id": "IMG_149130903",
+    "image_path": "data/images/IMG_149130903.jpg"
+  },
+  {
+    "index": 131,
+    "artifact_id": "COMMONS_149130903",
+    "image_id": "IMG_149130905",
+    "image_path": "data/images/IMG_149130905.jpg"
+  },
+  {
+    "index": 132,
+    "artifact_id": "COMMONS_149131250",
+    "image_id": "IMG_149131250",
+    "image_path": "data/images/IMG_149131250.jpg"
+  },
+  {
+    "index": 133,
+    "artifact_id": "COMMONS_149131250",
+    "image_id": "IMG_149131252",
+    "image_path": "data/images/IMG_149131252.jpg"
+  },
+  {
+    "index": 134,
+    "artifact_id": "COMMONS_149131250",
+    "image_id": "IMG_149131396",
+    "image_path": "data/images/IMG_149131396.jpg"
+  },
+  {
+    "index": 135,
+    "artifact_id": "COMMONS_149131250",
+    "image_id": "IMG_149131397",
+    "image_path": "data/images/IMG_149131397.jpg"
+  },
+  {
+    "index": 136,
+    "artifact_id": "COMMONS_149130614",
+    "image_id": "IMG_149130614",
+    "image_path": "data/images/IMG_149130614.jpg"
+  },
+  {
+    "index": 137,
+    "artifact_id": "COMMONS_149130614",
+    "image_id": "IMG_149130617",
+    "image_path": "data/images/IMG_149130617.jpg"
+  },
+  {
+    "index": 138,
+    "artifact_id": "COMMONS_149130614",
+    "image_id": "IMG_149130618",
+    "image_path": "data/images/IMG_149130618.jpg"
+  },
+  {
+    "index": 139,
+    "artifact_id": "COMMONS_149130614",
+    "image_id": "IMG_149130619",
+    "image_path": "data/images/IMG_149130619.jpg"
+  },
+  {
+    "index": 140,
+    "artifact_id": "COMMONS_149130614",
+    "image_id": "IMG_149130620",
+    "image_path": "data/images/IMG_149130620.jpg"
+  },
+  {
+    "index": 141,
+    "artifact_id": "COMMONS_149130614",
+    "image_id": "IMG_149130621",
+    "image_path": "data/images/IMG_149130621.jpg"
+  },
+  {
+    "index": 142,
+    "artifact_id": "COMMONS_149131254",
+    "image_id": "IMG_149131254",
+    "image_path": "data/images/IMG_149131254.jpg"
+  },
+  {
+    "index": 143,
+    "artifact_id": "COMMONS_149131254",
+    "image_id": "IMG_149131255",
+    "image_path": "data/images/IMG_149131255.jpg"
+  },
+  {
+    "index": 144,
+    "artifact_id": "COMMONS_149131254",
+    "image_id": "IMG_149131256",
+    "image_path": "data/images/IMG_149131256.jpg"
+  },
+  {
+    "index": 145,
+    "artifact_id": "COMMONS_149131254",
+    "image_id": "IMG_149131258",
+    "image_path": "data/images/IMG_149131258.jpg"
+  },
+  {
+    "index": 146,
+    "artifact_id": "COMMONS_149131254",
+    "image_id": "IMG_149131257",
+    "image_path": "data/images/IMG_149131257.jpg"
+  },
+  {
+    "index": 147,
+    "artifact_id": "COMMONS_149131254",
+    "image_id": "IMG_149131259",
+    "image_path": "data/images/IMG_149131259.jpg"
+  },
+  {
+    "index": 148,
+    "artifact_id": "COMMONS_149131254",
+    "image_id": "IMG_149131260",
+    "image_path": "data/images/IMG_149131260.jpg"
+  },
+  {
+    "index": 149,
+    "artifact_id": "COMMONS_149130778",
+    "image_id": "IMG_149130778",
+    "image_path": "data/images/IMG_149130778.jpg"
+  },
+  {
+    "index": 150,
+    "artifact_id": "COMMONS_149130778",
+    "image_id": "IMG_149130779",
+    "image_path": "data/images/IMG_149130779.jpg"
+  },
+  {
+    "index": 151,
+    "artifact_id": "COMMONS_149130780",
+    "image_id": "IMG_149130780",
+    "image_path": "data/images/IMG_149130780.jpg"
+  },
+  {
+    "index": 152,
+    "artifact_id": "COMMONS_149130780",
+    "image_id": "IMG_149130781",
+    "image_path": "data/images/IMG_149130781.jpg"
+  },
+  {
+    "index": 153,
+    "artifact_id": "COMMONS_149130780",
+    "image_id": "IMG_149130783",
+    "image_path": "data/images/IMG_149130783.jpg"
+  },
+  {
+    "index": 154,
+    "artifact_id": "COMMONS_149130782",
+    "image_id": "IMG_149130782",
+    "image_path": "data/images/IMG_149130782.jpg"
+  },
+  {
+    "index": 155,
+    "artifact_id": "COMMONS_149130784",
+    "image_id": "IMG_149130784",
+    "image_path": "data/images/IMG_149130784.jpg"
+  },
+  {
+    "index": 156,
+    "artifact_id": "COMMONS_149130909",
+    "image_id": "IMG_149130909",
+    "image_path": "data/images/IMG_149130909.jpg"
+  },
+  {
+    "index": 157,
+    "artifact_id": "COMMONS_149130909",
+    "image_id": "IMG_149130913",
+    "image_path": "data/images/IMG_149130913.jpg"
+  },
+  {
+    "index": 158,
+    "artifact_id": "COMMONS_149130909",
+    "image_id": "IMG_149130911",
+    "image_path": "data/images/IMG_149130911.jpg"
+  },
+  {
+    "index": 159,
+    "artifact_id": "COMMONS_149130909",
+    "image_id": "IMG_149130785",
+    "image_path": "data/images/IMG_149130785.jpg"
+  },
+  {
+    "index": 160,
+    "artifact_id": "COMMONS_149130909",
+    "image_id": "IMG_149130786",
+    "image_path": "data/images/IMG_149130786.jpg"
+  },
+  {
+    "index": 161,
+    "artifact_id": "COMMONS_149130787",
+    "image_id": "IMG_149130787",
+    "image_path": "data/images/IMG_149130787.jpg"
+  },
+  {
+    "index": 162,
+    "artifact_id": "COMMONS_149130918",
+    "image_id": "IMG_149130918",
+    "image_path": "data/images/IMG_149130918.jpg"
+  },
+  {
+    "index": 163,
+    "artifact_id": "COMMONS_149130918",
+    "image_id": "IMG_149130919",
+    "image_path": "data/images/IMG_149130919.jpg"
+  },
+  {
+    "index": 164,
+    "artifact_id": "COMMONS_149130788",
+    "image_id": "IMG_149130788",
+    "image_path": "data/images/IMG_149130788.jpg"
+  },
+  {
+    "index": 165,
+    "artifact_id": "COMMONS_149130788",
+    "image_id": "IMG_149130789",
+    "image_path": "data/images/IMG_149130789.jpg"
+  },
+  {
+    "index": 166,
+    "artifact_id": "COMMONS_149130788",
+    "image_id": "IMG_149130792",
+    "image_path": "data/images/IMG_149130792.jpg"
+  },
+  {
+    "index": 167,
+    "artifact_id": "COMMONS_149130788",
+    "image_id": "IMG_149130796",
+    "image_path": "data/images/IMG_149130796.jpg"
+  },
+  {
+    "index": 168,
+    "artifact_id": "COMMONS_149130795",
+    "image_id": "IMG_149130795",
+    "image_path": "data/images/IMG_149130795.jpg"
+  },
+  {
+    "index": 169,
+    "artifact_id": "COMMONS_149130795",
+    "image_id": "IMG_149130797",
+    "image_path": "data/images/IMG_149130797.jpg"
+  },
+  {
+    "index": 170,
+    "artifact_id": "COMMONS_149130795",
+    "image_id": "IMG_149130920",
+    "image_path": "data/images/IMG_149130920.jpg"
+  },
+  {
+    "index": 171,
+    "artifact_id": "COMMONS_149130795",
+    "image_id": "IMG_149130923",
+    "image_path": "data/images/IMG_149130923.jpg"
+  },
+  {
+    "index": 172,
+    "artifact_id": "COMMONS_149130795",
+    "image_id": "IMG_149130925",
+    "image_path": "data/images/IMG_149130925.jpg"
+  },
+  {
+    "index": 173,
+    "artifact_id": "COMMONS_149130927",
+    "image_id": "IMG_149130927",
+    "image_path": "data/images/IMG_149130927.jpg"
+  },
+  {
+    "index": 174,
+    "artifact_id": "COMMONS_149131012",
+    "image_id": "IMG_149131012",
+    "image_path": "data/images/IMG_149131012.jpg"
+  },
+  {
+    "index": 175,
+    "artifact_id": "COMMONS_149131012",
+    "image_id": "IMG_149131014",
+    "image_path": "data/images/IMG_149131014.jpg"
+  },
+  {
+    "index": 176,
+    "artifact_id": "COMMONS_149131012",
+    "image_id": "IMG_149131013",
+    "image_path": "data/images/IMG_149131013.jpg"
+  },
+  {
+    "index": 177,
+    "artifact_id": "COMMONS_149131017",
+    "image_id": "IMG_149131017",
+    "image_path": "data/images/IMG_149131017.jpg"
+  },
+  {
+    "index": 178,
+    "artifact_id": "COMMONS_149131012",
+    "image_id": "IMG_149131015",
+    "image_path": "data/images/IMG_149131015.jpg"
+  },
+  {
+    "index": 179,
+    "artifact_id": "COMMONS_149131012",
+    "image_id": "IMG_149131016",
+    "image_path": "data/images/IMG_149131016.jpg"
+  },
+  {
+    "index": 180,
+    "artifact_id": "COMMONS_149131012",
+    "image_id": "IMG_149131018",
+    "image_path": "data/images/IMG_149131018.jpg"
+  },
+  {
+    "index": 181,
+    "artifact_id": "COMMONS_149131012",
+    "image_id": "IMG_149131019",
+    "image_path": "data/images/IMG_149131019.jpg"
+  },
+  {
+    "index": 182,
+    "artifact_id": "COMMONS_149131012",
+    "image_id": "IMG_149131021",
+    "image_path": "data/images/IMG_149131021.jpg"
+  },
+  {
+    "index": 183,
+    "artifact_id": "COMMONS_149130801",
+    "image_id": "IMG_149130801",
+    "image_path": "data/images/IMG_149130801.jpg"
+  },
+  {
+    "index": 184,
+    "artifact_id": "COMMONS_149130801",
+    "image_id": "IMG_149130799",
+    "image_path": "data/images/IMG_149130799.jpg"
+  },
+  {
+    "index": 185,
+    "artifact_id": "COMMONS_149130804",
+    "image_id": "IMG_149130804",
+    "image_path": "data/images/IMG_149130804.jpg"
+  },
+  {
+    "index": 186,
+    "artifact_id": "COMMONS_149130804",
+    "image_id": "IMG_149130805",
+    "image_path": "data/images/IMG_149130805.jpg"
+  },
+  {
+    "index": 187,
+    "artifact_id": "COMMONS_149130806",
+    "image_id": "IMG_149130806",
+    "image_path": "data/images/IMG_149130806.jpg"
+  },
+  {
+    "index": 188,
+    "artifact_id": "COMMONS_149130806",
+    "image_id": "IMG_149130807",
+    "image_path": "data/images/IMG_149130807.jpg"
+  },
+  {
+    "index": 189,
+    "artifact_id": "COMMONS_51413781",
+    "image_id": "IMG_51413781",
+    "image_path": "data/images/IMG_51413781.jpg"
+  },
+  {
+    "index": 190,
+    "artifact_id": "COMMONS_51413781",
+    "image_id": "IMG_51413782",
+    "image_path": "data/images/IMG_51413782.jpg"
+  },
+  {
+    "index": 191,
+    "artifact_id": "COMMONS_51313340",
+    "image_id": "IMG_51313340",
+    "image_path": "data/images/IMG_51313340.jpg"
+  },
+  {
+    "index": 192,
+    "artifact_id": "COMMONS_51413476",
+    "image_id": "IMG_51413476",
+    "image_path": "data/images/IMG_51413476.jpg"
+  },
+  {
+    "index": 193,
+    "artifact_id": "COMMONS_149131386",
+    "image_id": "IMG_149131388",
+    "image_path": "data/images/IMG_149131388.jpg"
+  },
+  {
+    "index": 194,
+    "artifact_id": "COMMONS_149131400",
+    "image_id": "IMG_149131400",
+    "image_path": "data/images/IMG_149131400.jpg"
+  },
+  {
+    "index": 195,
+    "artifact_id": "COMMONS_149131400",
+    "image_id": "IMG_149131401",
+    "image_path": "data/images/IMG_149131401.jpg"
+  },
+  {
+    "index": 196,
+    "artifact_id": "COMMONS_149131400",
+    "image_id": "IMG_149131403",
+    "image_path": "data/images/IMG_149131403.jpg"
+  },
+  {
+    "index": 197,
+    "artifact_id": "COMMONS_117983740",
+    "image_id": "IMG_117983740",
+    "image_path": "data/images/IMG_117983740.jpg"
+  },
+  {
+    "index": 198,
+    "artifact_id": "COMMONS_117983740",
+    "image_id": "IMG_117983810",
+    "image_path": "data/images/IMG_117983810.jpg"
+  },
+  {
+    "index": 199,
+    "artifact_id": "COMMONS_117983740",
+    "image_id": "IMG_117983809",
+    "image_path": "data/images/IMG_117983809.jpg"
+  },
+  {
+    "index": 200,
+    "artifact_id": "COMMONS_117983740",
+    "image_id": "IMG_117983916",
+    "image_path": "data/images/IMG_117983916.jpg"
+  },
+  {
+    "index": 201,
+    "artifact_id": "COMMONS_117983740",
+    "image_id": "IMG_117983919",
+    "image_path": "data/images/IMG_117983919.jpg"
+  },
+  {
+    "index": 202,
+    "artifact_id": "COMMONS_117983740",
+    "image_id": "IMG_117983917",
+    "image_path": "data/images/IMG_117983917.jpg"
+  },
+  {
+    "index": 203,
+    "artifact_id": "COMMONS_117983740",
+    "image_id": "IMG_117983811",
+    "image_path": "data/images/IMG_117983811.jpg"
+  },
+  {
+    "index": 204,
+    "artifact_id": "COMMONS_117983740",
+    "image_id": "IMG_117983815",
+    "image_path": "data/images/IMG_117983815.jpg"
+  },
+  {
+    "index": 205,
+    "artifact_id": "COMMONS_117983740",
+    "image_id": "IMG_117983813",
+    "image_path": "data/images/IMG_117983813.jpg"
+  },
+  {
+    "index": 206,
+    "artifact_id": "COMMONS_117983740",
+    "image_id": "IMG_117983742",
+    "image_path": "data/images/IMG_117983742.jpg"
+  },
+  {
+    "index": 207,
+    "artifact_id": "COMMONS_117983740",
+    "image_id": "IMG_117983913",
+    "image_path": "data/images/IMG_117983913.jpg"
+  },
+  {
+    "index": 208,
+    "artifact_id": "COMMONS_117983741",
+    "image_id": "IMG_117983741",
+    "image_path": "data/images/IMG_117983741.jpg"
+  },
+  {
+    "index": 209,
+    "artifact_id": "COMMONS_117983920",
+    "image_id": "IMG_117983920",
+    "image_path": "data/images/IMG_117983920.jpg"
+  },
+  {
+    "index": 210,
+    "artifact_id": "COMMONS_117983920",
+    "image_id": "IMG_117983921",
+    "image_path": "data/images/IMG_117983921.jpg"
+  },
+  {
+    "index": 211,
+    "artifact_id": "COMMONS_117983745",
+    "image_id": "IMG_117983745",
+    "image_path": "data/images/IMG_117983745.jpg"
+  },
+  {
+    "index": 212,
+    "artifact_id": "COMMONS_117983743",
+    "image_id": "IMG_117983743",
+    "image_path": "data/images/IMG_117983743.jpg"
+  },
+  {
+    "index": 213,
+    "artifact_id": "COMMONS_117983743",
+    "image_id": "IMG_117983744",
+    "image_path": "data/images/IMG_117983744.jpg"
+  },
+  {
+    "index": 214,
+    "artifact_id": "COMMONS_117983814",
+    "image_id": "IMG_117983814",
+    "image_path": "data/images/IMG_117983814.jpg"
+  },
+  {
+    "index": 215,
+    "artifact_id": "COMMONS_117983814",
+    "image_id": "IMG_117983816",
+    "image_path": "data/images/IMG_117983816.jpg"
+  },
+  {
+    "index": 216,
+    "artifact_id": "COMMONS_117983822",
+    "image_id": "IMG_117983822",
+    "image_path": "data/images/IMG_117983822.jpg"
+  },
+  {
+    "index": 217,
+    "artifact_id": "COMMONS_117983822",
+    "image_id": "IMG_117983821",
+    "image_path": "data/images/IMG_117983821.jpg"
+  },
+  {
+    "index": 218,
+    "artifact_id": "COMMONS_117983822",
+    "image_id": "IMG_117983818",
+    "image_path": "data/images/IMG_117983818.jpg"
+  },
+  {
+    "index": 219,
+    "artifact_id": "COMMONS_117983851",
+    "image_id": "IMG_117983851",
+    "image_path": "data/images/IMG_117983851.jpg"
+  },
+  {
+    "index": 220,
+    "artifact_id": "COMMONS_117983852",
+    "image_id": "IMG_117983852",
+    "image_path": "data/images/IMG_117983852.jpg"
+  },
+  {
+    "index": 221,
+    "artifact_id": "COMMONS_117983852",
+    "image_id": "IMG_117983853",
+    "image_path": "data/images/IMG_117983853.jpg"
+  },
+  {
+    "index": 222,
+    "artifact_id": "COMMONS_117983852",
+    "image_id": "IMG_117983856",
+    "image_path": "data/images/IMG_117983856.jpg"
+  },
+  {
+    "index": 223,
+    "artifact_id": "COMMONS_117983852",
+    "image_id": "IMG_117983857",
+    "image_path": "data/images/IMG_117983857.jpg"
+  },
+  {
+    "index": 224,
+    "artifact_id": "COMMONS_117983852",
+    "image_id": "IMG_117983855",
+    "image_path": "data/images/IMG_117983855.jpg"
+  },
+  {
+    "index": 225,
+    "artifact_id": "COMMONS_117983858",
+    "image_id": "IMG_117983858",
+    "image_path": "data/images/IMG_117983858.jpg"
+  },
+  {
+    "index": 226,
+    "artifact_id": "COMMONS_117983858",
+    "image_id": "IMG_117983860",
+    "image_path": "data/images/IMG_117983860.jpg"
+  },
+  {
+    "index": 227,
+    "artifact_id": "COMMONS_117983858",
+    "image_id": "IMG_117983862",
+    "image_path": "data/images/IMG_117983862.jpg"
+  },
+  {
+    "index": 228,
+    "artifact_id": "COMMONS_117983924",
+    "image_id": "IMG_117983924",
+    "image_path": "data/images/IMG_117983924.jpg"
+  },
+  {
+    "index": 229,
+    "artifact_id": "COMMONS_95035971",
+    "image_id": "IMG_95035971",
+    "image_path": "data/images/IMG_95035971.jpg"
+  },
+  {
+    "index": 230,
+    "artifact_id": "COMMONS_95035971",
+    "image_id": "IMG_95035912",
+    "image_path": "data/images/IMG_95035912.jpg"
+  },
+  {
+    "index": 231,
+    "artifact_id": "COMMONS_95035950",
+    "image_id": "IMG_95035950",
+    "image_path": "data/images/IMG_95035950.jpg"
+  },
+  {
+    "index": 232,
+    "artifact_id": "COMMONS_95035950",
+    "image_id": "IMG_95035932",
+    "image_path": "data/images/IMG_95035932.jpg"
+  },
+  {
+    "index": 233,
+    "artifact_id": "COMMONS_95035950",
+    "image_id": "IMG_95035933",
+    "image_path": "data/images/IMG_95035933.jpg"
+  },
+  {
+    "index": 234,
+    "artifact_id": "COMMONS_95035950",
+    "image_id": "IMG_95035969",
+    "image_path": "data/images/IMG_95035969.jpg"
+  },
+  {
+    "index": 235,
+    "artifact_id": "COMMONS_95035950",
+    "image_id": "IMG_95035959",
+    "image_path": "data/images/IMG_95035959.jpg"
+  },
+  {
+    "index": 236,
+    "artifact_id": "COMMONS_95035950",
+    "image_id": "IMG_95035947",
+    "image_path": "data/images/IMG_95035947.jpg"
+  },
+  {
+    "index": 237,
+    "artifact_id": "COMMONS_95035950",
+    "image_id": "IMG_95035946",
+    "image_path": "data/images/IMG_95035946.jpg"
+  },
+  {
+    "index": 238,
+    "artifact_id": "COMMONS_95035950",
+    "image_id": "IMG_95035935",
+    "image_path": "data/images/IMG_95035935.jpg"
+  },
+  {
+    "index": 239,
+    "artifact_id": "COMMONS_95035950",
+    "image_id": "IMG_95035936",
+    "image_path": "data/images/IMG_95035936.jpg"
+  },
+  {
+    "index": 240,
+    "artifact_id": "COMMONS_95035950",
+    "image_id": "IMG_95035960",
+    "image_path": "data/images/IMG_95035960.jpg"
+  },
+  {
+    "index": 241,
+    "artifact_id": "COMMONS_95035950",
+    "image_id": "IMG_95035948",
+    "image_path": "data/images/IMG_95035948.jpg"
+  },
+  {
+    "index": 242,
+    "artifact_id": "COMMONS_95035950",
+    "image_id": "IMG_95035973",
+    "image_path": "data/images/IMG_95035973.jpg"
+  },
+  {
+    "index": 243,
+    "artifact_id": "COMMONS_95035950",
+    "image_id": "IMG_95035962",
+    "image_path": "data/images/IMG_95035962.jpg"
+  },
+  {
+    "index": 244,
+    "artifact_id": "COMMONS_95035950",
+    "image_id": "IMG_95035963",
+    "image_path": "data/images/IMG_95035963.jpg"
+  },
+  {
+    "index": 245,
+    "artifact_id": "COMMONS_95035950",
+    "image_id": "IMG_95035961",
+    "image_path": "data/images/IMG_95035961.jpg"
+  },
+  {
+    "index": 246,
+    "artifact_id": "COMMONS_95035950",
+    "image_id": "IMG_95035956",
+    "image_path": "data/images/IMG_95035956.jpg"
+  },
+  {
+    "index": 247,
+    "artifact_id": "COMMONS_95035950",
+    "image_id": "IMG_95035953",
+    "image_path": "data/images/IMG_95035953.jpg"
+  },
+  {
+    "index": 248,
+    "artifact_id": "COMMONS_95035950",
+    "image_id": "IMG_95035955",
+    "image_path": "data/images/IMG_95035955.jpg"
+  },
+  {
+    "index": 249,
+    "artifact_id": "COMMONS_95035950",
+    "image_id": "IMG_95035931",
+    "image_path": "data/images/IMG_95035931.jpg"
+  },
+  {
+    "index": 250,
+    "artifact_id": "COMMONS_95035950",
+    "image_id": "IMG_95035929",
+    "image_path": "data/images/IMG_95035929.jpg"
+  },
+  {
+    "index": 251,
+    "artifact_id": "COMMONS_95035950",
+    "image_id": "IMG_95036012",
+    "image_path": "data/images/IMG_95036012.jpg"
+  },
+  {
+    "index": 252,
+    "artifact_id": "COMMONS_95035950",
+    "image_id": "IMG_95036009",
+    "image_path": "data/images/IMG_95036009.jpg"
+  },
+  {
+    "index": 253,
+    "artifact_id": "COMMONS_95035950",
+    "image_id": "IMG_95036003",
+    "image_path": "data/images/IMG_95036003.jpg"
+  },
+  {
+    "index": 254,
+    "artifact_id": "COMMONS_95035950",
+    "image_id": "IMG_95035982",
+    "image_path": "data/images/IMG_95035982.jpg"
+  },
+  {
+    "index": 255,
+    "artifact_id": "COMMONS_95035950",
+    "image_id": "IMG_95035986",
+    "image_path": "data/images/IMG_95035986.jpg"
+  },
+  {
+    "index": 256,
+    "artifact_id": "COMMONS_95035950",
+    "image_id": "IMG_95036006",
+    "image_path": "data/images/IMG_95036006.jpg"
+  },
+  {
+    "index": 257,
+    "artifact_id": "COMMONS_95035950",
+    "image_id": "IMG_95035979",
+    "image_path": "data/images/IMG_95035979.jpg"
+  },
+  {
+    "index": 258,
+    "artifact_id": "COMMONS_95035950",
+    "image_id": "IMG_95035980",
+    "image_path": "data/images/IMG_95035980.jpg"
+  },
+  {
+    "index": 259,
+    "artifact_id": "COMMONS_95035975",
+    "image_id": "IMG_95035975",
+    "image_path": "data/images/IMG_95035975.jpg"
+  },
+  {
+    "index": 260,
+    "artifact_id": "COMMONS_95035998",
+    "image_id": "IMG_95035998",
+    "image_path": "data/images/IMG_95035998.jpg"
+  },
+  {
+    "index": 261,
+    "artifact_id": "COMMONS_95036001",
+    "image_id": "IMG_95036001",
+    "image_path": "data/images/IMG_95036001.jpg"
+  },
+  {
+    "index": 262,
+    "artifact_id": "COMMONS_95036001",
+    "image_id": "IMG_95036002",
+    "image_path": "data/images/IMG_95036002.jpg"
+  },
+  {
+    "index": 263,
+    "artifact_id": "COMMONS_95035974",
+    "image_id": "IMG_95035974",
+    "image_path": "data/images/IMG_95035974.jpg"
+  },
+  {
+    "index": 264,
+    "artifact_id": "COMMONS_95035915",
+    "image_id": "IMG_95035915",
+    "image_path": "data/images/IMG_95035915.jpg"
+  },
+  {
+    "index": 265,
+    "artifact_id": "COMMONS_95035915",
+    "image_id": "IMG_95035928",
+    "image_path": "data/images/IMG_95035928.jpg"
+  },
+  {
+    "index": 266,
+    "artifact_id": "COMMONS_95035915",
+    "image_id": "IMG_95035918",
+    "image_path": "data/images/IMG_95035918.jpg"
+  },
+  {
+    "index": 267,
+    "artifact_id": "COMMONS_95035915",
+    "image_id": "IMG_95035925",
+    "image_path": "data/images/IMG_95035925.jpg"
+  },
+  {
+    "index": 268,
+    "artifact_id": "COMMONS_95035915",
+    "image_id": "IMG_95035923",
+    "image_path": "data/images/IMG_95035923.jpg"
+  },
+  {
+    "index": 269,
+    "artifact_id": "COMMONS_95035915",
+    "image_id": "IMG_95035922",
+    "image_path": "data/images/IMG_95035922.jpg"
+  },
+  {
+    "index": 270,
+    "artifact_id": "COMMONS_95035915",
+    "image_id": "IMG_95035916",
+    "image_path": "data/images/IMG_95035916.jpg"
+  },
+  {
+    "index": 271,
+    "artifact_id": "COMMONS_95035915",
+    "image_id": "IMG_95035920",
+    "image_path": "data/images/IMG_95035920.jpg"
+  },
+  {
+    "index": 272,
+    "artifact_id": "COMMONS_95035907",
+    "image_id": "IMG_95035907",
+    "image_path": "data/images/IMG_95035907.jpg"
+  },
+  {
+    "index": 273,
+    "artifact_id": "COMMONS_95035988",
+    "image_id": "IMG_95035988",
+    "image_path": "data/images/IMG_95035988.jpg"
+  },
+  {
+    "index": 274,
+    "artifact_id": "COMMONS_95036088",
+    "image_id": "IMG_95036088",
+    "image_path": "data/images/IMG_95036088.jpg"
+  },
+  {
+    "index": 275,
+    "artifact_id": "COMMONS_95036088",
+    "image_id": "IMG_95036071",
+    "image_path": "data/images/IMG_95036071.jpg"
+  },
+  {
+    "index": 276,
+    "artifact_id": "COMMONS_95036088",
+    "image_id": "IMG_95036073",
+    "image_path": "data/images/IMG_95036073.jpg"
+  },
+  {
+    "index": 277,
+    "artifact_id": "COMMONS_95036088",
+    "image_id": "IMG_95036070",
+    "image_path": "data/images/IMG_95036070.jpg"
+  },
+  {
+    "index": 278,
+    "artifact_id": "COMMONS_95036088",
+    "image_id": "IMG_95036053",
+    "image_path": "data/images/IMG_95036053.jpg"
+  },
+  {
+    "index": 279,
+    "artifact_id": "COMMONS_95036088",
+    "image_id": "IMG_95036027",
+    "image_path": "data/images/IMG_95036027.jpg"
+  },
+  {
+    "index": 280,
+    "artifact_id": "COMMONS_95036088",
+    "image_id": "IMG_95036017",
+    "image_path": "data/images/IMG_95036017.jpg"
+  },
+  {
+    "index": 281,
+    "artifact_id": "COMMONS_95036088",
+    "image_id": "IMG_95036109",
+    "image_path": "data/images/IMG_95036109.jpg"
+  },
+  {
+    "index": 282,
+    "artifact_id": "COMMONS_95036088",
+    "image_id": "IMG_95036101",
+    "image_path": "data/images/IMG_95036101.jpg"
+  },
+  {
+    "index": 283,
+    "artifact_id": "COMMONS_95036088",
+    "image_id": "IMG_95036096",
+    "image_path": "data/images/IMG_95036096.jpg"
+  },
+  {
+    "index": 284,
+    "artifact_id": "COMMONS_95036088",
+    "image_id": "IMG_95036093",
+    "image_path": "data/images/IMG_95036093.jpg"
+  },
+  {
+    "index": 285,
+    "artifact_id": "COMMONS_95036088",
+    "image_id": "IMG_95036079",
+    "image_path": "data/images/IMG_95036079.jpg"
+  },
+  {
+    "index": 286,
+    "artifact_id": "COMMONS_95036088",
+    "image_id": "IMG_95036036",
+    "image_path": "data/images/IMG_95036036.jpg"
+  },
+  {
+    "index": 287,
+    "artifact_id": "COMMONS_95036088",
+    "image_id": "IMG_95036031",
+    "image_path": "data/images/IMG_95036031.jpg"
+  },
+  {
+    "index": 288,
+    "artifact_id": "COMMONS_95036088",
+    "image_id": "IMG_95036022",
+    "image_path": "data/images/IMG_95036022.jpg"
+  },
+  {
+    "index": 289,
+    "artifact_id": "COMMONS_95036088",
+    "image_id": "IMG_95036086",
+    "image_path": "data/images/IMG_95036086.jpg"
+  },
+  {
+    "index": 290,
+    "artifact_id": "COMMONS_95036088",
+    "image_id": "IMG_95036040",
+    "image_path": "data/images/IMG_95036040.jpg"
+  },
+  {
+    "index": 291,
+    "artifact_id": "COMMONS_95036088",
+    "image_id": "IMG_95036037",
+    "image_path": "data/images/IMG_95036037.jpg"
+  },
+  {
+    "index": 292,
+    "artifact_id": "COMMONS_95036088",
+    "image_id": "IMG_95036024",
+    "image_path": "data/images/IMG_95036024.jpg"
+  },
+  {
+    "index": 293,
+    "artifact_id": "COMMONS_95036088",
+    "image_id": "IMG_95036016",
+    "image_path": "data/images/IMG_95036016.jpg"
+  },
+  {
+    "index": 294,
+    "artifact_id": "COMMONS_95036088",
+    "image_id": "IMG_95036111",
+    "image_path": "data/images/IMG_95036111.jpg"
+  },
+  {
+    "index": 295,
+    "artifact_id": "COMMONS_95036088",
+    "image_id": "IMG_95036107",
+    "image_path": "data/images/IMG_95036107.jpg"
+  },
+  {
+    "index": 296,
+    "artifact_id": "COMMONS_51409446",
+    "image_id": "IMG_51409446",
+    "image_path": "data/images/IMG_51409446.jpg"
+  },
+  {
+    "index": 297,
+    "artifact_id": "COMMONS_51400324",
+    "image_id": "IMG_51400324",
+    "image_path": "data/images/IMG_51400324.jpg"
+  },
+  {
+    "index": 298,
+    "artifact_id": "COMMONS_51462385",
+    "image_id": "IMG_51462385",
+    "image_path": "data/images/IMG_51462385.jpg"
+  },
+  {
+    "index": 299,
+    "artifact_id": "COMMONS_51462383",
+    "image_id": "IMG_51462383",
+    "image_path": "data/images/IMG_51462383.jpg"
+  },
+  {
+    "index": 300,
+    "artifact_id": "COMMONS_51462384",
+    "image_id": "IMG_51462384",
+    "image_path": "data/images/IMG_51462384.jpg"
+  },
+  {
+    "index": 301,
+    "artifact_id": "COMMONS_51414204",
+    "image_id": "IMG_51414204",
+    "image_path": "data/images/IMG_51414204.jpg"
+  },
+  {
+    "index": 302,
+    "artifact_id": "COMMONS_51323568",
+    "image_id": "IMG_51323568",
+    "image_path": "data/images/IMG_51323568.jpg"
+  },
+  {
+    "index": 303,
+    "artifact_id": "COMMONS_40766095",
+    "image_id": "IMG_40766095",
+    "image_path": "data/images/IMG_40766095.jpg"
+  },
+  {
+    "index": 304,
+    "artifact_id": "COMMONS_40764320",
+    "image_id": "IMG_40764320",
+    "image_path": "data/images/IMG_40764320.jpg"
+  },
+  {
+    "index": 305,
+    "artifact_id": "COMMONS_40764322",
+    "image_id": "IMG_40764322",
+    "image_path": "data/images/IMG_40764322.jpg"
+  },
+  {
+    "index": 306,
+    "artifact_id": "COMMONS_40764323",
+    "image_id": "IMG_40764323",
+    "image_path": "data/images/IMG_40764323.jpg"
+  },
+  {
+    "index": 307,
+    "artifact_id": "COMMONS_51462833",
+    "image_id": "IMG_51462833",
+    "image_path": "data/images/IMG_51462833.jpg"
+  },
+  {
+    "index": 308,
+    "artifact_id": "COMMONS_51414640",
+    "image_id": "IMG_51414640",
+    "image_path": "data/images/IMG_51414640.jpg"
+  },
+  {
+    "index": 309,
+    "artifact_id": "COMMONS_40764801",
+    "image_id": "IMG_40764801",
+    "image_path": "data/images/IMG_40764801.jpg"
+  },
+  {
+    "index": 310,
+    "artifact_id": "COMMONS_40764307",
+    "image_id": "IMG_40764307",
+    "image_path": "data/images/IMG_40764307.jpg"
+  },
+  {
+    "index": 311,
+    "artifact_id": "COMMONS_40764306",
+    "image_id": "IMG_40764306",
+    "image_path": "data/images/IMG_40764306.jpg"
+  },
+  {
+    "index": 312,
+    "artifact_id": "COMMONS_95036088",
+    "image_id": "IMG_95036066",
+    "image_path": "data/images/IMG_95036066.jpg"
+  },
+  {
+    "index": 313,
+    "artifact_id": "COMMONS_95036088",
+    "image_id": "IMG_95036047",
+    "image_path": "data/images/IMG_95036047.jpg"
+  },
+  {
+    "index": 314,
+    "artifact_id": "COMMONS_95036088",
+    "image_id": "IMG_95036106",
+    "image_path": "data/images/IMG_95036106.jpg"
+  },
+  {
+    "index": 315,
+    "artifact_id": "COMMONS_95036088",
+    "image_id": "IMG_95036100",
+    "image_path": "data/images/IMG_95036100.jpg"
+  },
+  {
+    "index": 316,
+    "artifact_id": "COMMONS_95036088",
+    "image_id": "IMG_95036095",
+    "image_path": "data/images/IMG_95036095.jpg"
+  },
+  {
+    "index": 317,
+    "artifact_id": "COMMONS_95036088",
+    "image_id": "IMG_95036089",
+    "image_path": "data/images/IMG_95036089.jpg"
+  },
+  {
+    "index": 318,
+    "artifact_id": "COMMONS_95036088",
+    "image_id": "IMG_95036087",
+    "image_path": "data/images/IMG_95036087.jpg"
+  },
+  {
+    "index": 319,
+    "artifact_id": "COMMONS_95036088",
+    "image_id": "IMG_95036050",
+    "image_path": "data/images/IMG_95036050.jpg"
+  },
+  {
+    "index": 320,
+    "artifact_id": "COMMONS_95036088",
+    "image_id": "IMG_95036048",
+    "image_path": "data/images/IMG_95036048.jpg"
+  },
+  {
+    "index": 321,
+    "artifact_id": "COMMONS_95036088",
+    "image_id": "IMG_95036029",
+    "image_path": "data/images/IMG_95036029.jpg"
+  },
+  {
+    "index": 322,
+    "artifact_id": "COMMONS_95036088",
+    "image_id": "IMG_95036015",
+    "image_path": "data/images/IMG_95036015.jpg"
+  },
+  {
+    "index": 323,
+    "artifact_id": "COMMONS_95036043",
+    "image_id": "IMG_95036043",
+    "image_path": "data/images/IMG_95036043.jpg"
+  },
+  {
+    "index": 324,
+    "artifact_id": "COMMONS_95036043",
+    "image_id": "IMG_95036049",
+    "image_path": "data/images/IMG_95036049.jpg"
+  },
+  {
+    "index": 325,
+    "artifact_id": "COMMONS_95035991",
+    "image_id": "IMG_95035991",
+    "image_path": "data/images/IMG_95035991.jpg"
+  },
+  {
+    "index": 326,
+    "artifact_id": "COMMONS_95035991",
+    "image_id": "IMG_95035992",
+    "image_path": "data/images/IMG_95035992.jpg"
+  },
+  {
+    "index": 327,
+    "artifact_id": "COMMONS_95035991",
+    "image_id": "IMG_95035994",
+    "image_path": "data/images/IMG_95035994.jpg"
+  },
+  {
+    "index": 328,
+    "artifact_id": "COMMONS_95035991",
+    "image_id": "IMG_95035990",
+    "image_path": "data/images/IMG_95035990.jpg"
+  },
+  {
+    "index": 329,
+    "artifact_id": "COMMONS_95035995",
+    "image_id": "IMG_95035995",
+    "image_path": "data/images/IMG_95035995.jpg"
+  },
+  {
+    "index": 330,
+    "artifact_id": "COMMONS_95035995",
+    "image_id": "IMG_95036018",
+    "image_path": "data/images/IMG_95036018.jpg"
+  },
+  {
+    "index": 331,
+    "artifact_id": "COMMONS_95035995",
+    "image_id": "IMG_95035981",
+    "image_path": "data/images/IMG_95035981.jpg"
+  },
+  {
+    "index": 332,
+    "artifact_id": "COMMONS_40764319",
+    "image_id": "IMG_40764319",
+    "image_path": "data/images/IMG_40764319.jpg"
+  },
+  {
+    "index": 333,
+    "artifact_id": "COMMONS_40764319",
+    "image_id": "IMG_40764314",
+    "image_path": "data/images/IMG_40764314.jpg"
+  },
+  {
+    "index": 334,
+    "artifact_id": "COMMONS_40764319",
+    "image_id": "IMG_40764317",
+    "image_path": "data/images/IMG_40764317.jpg"
+  },
+  {
+    "index": 335,
+    "artifact_id": "COMMONS_40764319",
+    "image_id": "IMG_40764308",
+    "image_path": "data/images/IMG_40764308.jpg"
+  },
+  {
+    "index": 336,
+    "artifact_id": "COMMONS_54853102",
+    "image_id": "IMG_54853102",
+    "image_path": "data/images/IMG_54853102.jpg"
+  },
+  {
+    "index": 337,
+    "artifact_id": "COMMONS_54853103",
+    "image_id": "IMG_54853103",
+    "image_path": "data/images/IMG_54853103.jpg"
+  },
+  {
+    "index": 338,
+    "artifact_id": "COMMONS_104463649",
+    "image_id": "IMG_104463649",
+    "image_path": "data/images/IMG_104463649.jpg"
+  },
+  {
+    "index": 339,
+    "artifact_id": "COMMONS_40764309",
+    "image_id": "IMG_40764309",
+    "image_path": "data/images/IMG_40764309.jpg"
+  },
+  {
+    "index": 340,
+    "artifact_id": "COMMONS_40764310",
+    "image_id": "IMG_40764310",
+    "image_path": "data/images/IMG_40764310.jpg"
+  },
+  {
+    "index": 341,
+    "artifact_id": "COMMONS_40764321",
+    "image_id": "IMG_40764321",
+    "image_path": "data/images/IMG_40764321.jpg"
+  },
+  {
+    "index": 342,
+    "artifact_id": "COMMONS_51527771",
+    "image_id": "IMG_51527771",
+    "image_path": "data/images/IMG_51527771.jpg"
+  },
+  {
+    "index": 343,
+    "artifact_id": "COMMONS_40764304",
+    "image_id": "IMG_40764304",
+    "image_path": "data/images/IMG_40764304.jpg"
+  },
+  {
+    "index": 344,
+    "artifact_id": "COMMONS_40764312",
+    "image_id": "IMG_40764312",
+    "image_path": "data/images/IMG_40764312.jpg"
+  },
+  {
+    "index": 345,
+    "artifact_id": "COMMONS_40764315",
+    "image_id": "IMG_40764315",
+    "image_path": "data/images/IMG_40764315.jpg"
+  },
+  {
+    "index": 346,
+    "artifact_id": "COMMONS_55705537",
+    "image_id": "IMG_55705537",
+    "image_path": "data/images/IMG_55705537.jpg"
+  },
+  {
+    "index": 347,
+    "artifact_id": "COMMONS_40764326",
+    "image_id": "IMG_40764326",
+    "image_path": "data/images/IMG_40764326.jpg"
+  },
+  {
+    "index": 348,
+    "artifact_id": "COMMONS_40764324",
+    "image_id": "IMG_40764324",
+    "image_path": "data/images/IMG_40764324.jpg"
+  },
+  {
+    "index": 349,
+    "artifact_id": "COMMONS_51527826",
+    "image_id": "IMG_51527826",
+    "image_path": "data/images/IMG_51527826.jpg"
+  },
+  {
+    "index": 350,
+    "artifact_id": "COMMONS_40764328",
+    "image_id": "IMG_40764328",
+    "image_path": "data/images/IMG_40764328.jpg"
+  },
+  {
+    "index": 351,
+    "artifact_id": "COMMONS_40764316",
+    "image_id": "IMG_40764316",
+    "image_path": "data/images/IMG_40764316.jpg"
+  },
+  {
+    "index": 352,
+    "artifact_id": "COMMONS_55492026",
+    "image_id": "IMG_55492026",
+    "image_path": "data/images/IMG_55492026.jpg"
+  },
+  {
+    "index": 353,
+    "artifact_id": "COMMONS_51469606",
+    "image_id": "IMG_51469606",
+    "image_path": "data/images/IMG_51469606.jpg"
+  },
+  {
+    "index": 354,
+    "artifact_id": "COMMONS_51469041",
+    "image_id": "IMG_51469041",
+    "image_path": "data/images/IMG_51469041.jpg"
+  },
+  {
+    "index": 355,
+    "artifact_id": "COMMONS_40764325",
+    "image_id": "IMG_40764325",
+    "image_path": "data/images/IMG_40764325.jpg"
+  },
+  {
+    "index": 356,
+    "artifact_id": "COMMONS_55626837",
+    "image_id": "IMG_55626837",
+    "image_path": "data/images/IMG_55626837.jpg"
+  },
+  {
+    "index": 357,
+    "artifact_id": "COMMONS_40764313",
+    "image_id": "IMG_40764313",
+    "image_path": "data/images/IMG_40764313.jpg"
+  },
+  {
+    "index": 358,
+    "artifact_id": "COMMONS_37214344",
+    "image_id": "IMG_37214344",
+    "image_path": "data/images/IMG_37214344.jpg"
+  },
+  {
+    "index": 359,
+    "artifact_id": "COMMONS_37214344",
+    "image_id": "IMG_37214342",
+    "image_path": "data/images/IMG_37214342.jpg"
+  },
+  {
+    "index": 360,
+    "artifact_id": "COMMONS_37962171",
+    "image_id": "IMG_37962171",
+    "image_path": "data/images/IMG_37962171.jpg"
+  },
+  {
+    "index": 361,
+    "artifact_id": "COMMONS_37962171",
+    "image_id": "IMG_37962170",
+    "image_path": "data/images/IMG_37962170.jpg"
+  },
+  {
+    "index": 362,
+    "artifact_id": "COMMONS_37962171",
+    "image_id": "IMG_37962169",
+    "image_path": "data/images/IMG_37962169.jpg"
+  },
+  {
+    "index": 363,
+    "artifact_id": "COMMONS_37962171",
+    "image_id": "IMG_37962174",
+    "image_path": "data/images/IMG_37962174.jpg"
+  },
+  {
+    "index": 364,
+    "artifact_id": "COMMONS_37962171",
+    "image_id": "IMG_37962173",
+    "image_path": "data/images/IMG_37962173.jpg"
+  },
+  {
+    "index": 365,
+    "artifact_id": "COMMONS_37962171",
+    "image_id": "IMG_37962175",
+    "image_path": "data/images/IMG_37962175.jpg"
+  },
+  {
+    "index": 366,
+    "artifact_id": "COMMONS_37962171",
+    "image_id": "IMG_37962176",
+    "image_path": "data/images/IMG_37962176.jpg"
+  },
+  {
+    "index": 367,
+    "artifact_id": "COMMONS_37214346",
+    "image_id": "IMG_37214346",
+    "image_path": "data/images/IMG_37214346.jpg"
+  },
+  {
+    "index": 368,
+    "artifact_id": "COMMONS_37214346",
+    "image_id": "IMG_37214341",
+    "image_path": "data/images/IMG_37214341.jpg"
+  },
+  {
+    "index": 369,
+    "artifact_id": "COMMONS_37214323",
+    "image_id": "IMG_37214323",
+    "image_path": "data/images/IMG_37214323.jpg"
+  },
+  {
+    "index": 370,
+    "artifact_id": "COMMONS_37214340",
+    "image_id": "IMG_37214340",
+    "image_path": "data/images/IMG_37214340.jpg"
+  },
+  {
+    "index": 371,
+    "artifact_id": "COMMONS_69732746",
+    "image_id": "IMG_69732746",
+    "image_path": "data/images/IMG_69732746.jpg"
+  },
+  {
+    "index": 372,
+    "artifact_id": "COMMONS_40593223",
+    "image_id": "IMG_40593223",
+    "image_path": "data/images/IMG_40593223.jpg"
+  },
+  {
+    "index": 373,
+    "artifact_id": "COMMONS_69732738",
+    "image_id": "IMG_69732738",
+    "image_path": "data/images/IMG_69732738.jpg"
+  },
+  {
+    "index": 374,
+    "artifact_id": "COMMONS_69732737",
+    "image_id": "IMG_69732737",
+    "image_path": "data/images/IMG_69732737.jpg"
+  },
+  {
+    "index": 375,
+    "artifact_id": "COMMONS_24671535",
+    "image_id": "IMG_24671535",
+    "image_path": "data/images/IMG_24671535.jpg"
+  },
+  {
+    "index": 376,
+    "artifact_id": "COMMONS_65205060",
+    "image_id": "IMG_65205060",
+    "image_path": "data/images/IMG_65205060.jpg"
+  },
+  {
+    "index": 377,
+    "artifact_id": "COMMONS_40593217",
+    "image_id": "IMG_40593217",
+    "image_path": "data/images/IMG_40593217.jpg"
+  },
+  {
+    "index": 378,
+    "artifact_id": "COMMONS_40593215",
+    "image_id": "IMG_40593215",
+    "image_path": "data/images/IMG_40593215.jpg"
+  },
+  {
+    "index": 379,
+    "artifact_id": "COMMONS_69732744",
+    "image_id": "IMG_69732744",
+    "image_path": "data/images/IMG_69732744.jpg"
+  },
+  {
+    "index": 380,
+    "artifact_id": "COMMONS_69732741",
+    "image_id": "IMG_69732741",
+    "image_path": "data/images/IMG_69732741.jpg"
+  },
+  {
+    "index": 381,
+    "artifact_id": "COMMONS_40593225",
+    "image_id": "IMG_40593225",
+    "image_path": "data/images/IMG_40593225.jpg"
+  },
+  {
+    "index": 382,
+    "artifact_id": "COMMONS_69732740",
+    "image_id": "IMG_69732740",
+    "image_path": "data/images/IMG_69732740.jpg"
+  },
+  {
+    "index": 383,
+    "artifact_id": "COMMONS_5656048",
+    "image_id": "IMG_5656048",
+    "image_path": "data/images/IMG_5656048.jpg"
+  },
+  {
+    "index": 384,
+    "artifact_id": "COMMONS_5656222",
+    "image_id": "IMG_5656222",
+    "image_path": "data/images/IMG_5656222.jpg"
+  },
+  {
+    "index": 385,
+    "artifact_id": "COMMONS_5656265",
+    "image_id": "IMG_5656265",
+    "image_path": "data/images/IMG_5656265.jpg"
+  },
+  {
+    "index": 386,
+    "artifact_id": "COMMONS_5656292",
+    "image_id": "IMG_5656292",
+    "image_path": "data/images/IMG_5656292.jpg"
+  },
+  {
+    "index": 387,
+    "artifact_id": "COMMONS_5656318",
+    "image_id": "IMG_5656318",
+    "image_path": "data/images/IMG_5656318.jpg"
+  },
+  {
+    "index": 388,
+    "artifact_id": "COMMONS_5656338",
+    "image_id": "IMG_5656338",
+    "image_path": "data/images/IMG_5656338.jpg"
+  },
+  {
+    "index": 389,
+    "artifact_id": "COMMONS_5656381",
+    "image_id": "IMG_5656381",
+    "image_path": "data/images/IMG_5656381.jpg"
+  },
+  {
+    "index": 390,
+    "artifact_id": "COMMONS_5656570",
+    "image_id": "IMG_5656570",
+    "image_path": "data/images/IMG_5656570.jpg"
+  },
+  {
+    "index": 391,
+    "artifact_id": "COMMONS_5656604",
+    "image_id": "IMG_5656604",
+    "image_path": "data/images/IMG_5656604.jpg"
+  },
+  {
+    "index": 392,
+    "artifact_id": "COMMONS_5656627",
+    "image_id": "IMG_5656627",
+    "image_path": "data/images/IMG_5656627.jpg"
+  },
+  {
+    "index": 393,
+    "artifact_id": "COMMONS_5656652",
+    "image_id": "IMG_5656652",
+    "image_path": "data/images/IMG_5656652.jpg"
+  },
+  {
+    "index": 394,
+    "artifact_id": "COMMONS_5656698",
+    "image_id": "IMG_5656698",
+    "image_path": "data/images/IMG_5656698.jpg"
+  },
+  {
+    "index": 395,
+    "artifact_id": "COMMONS_5656083",
+    "image_id": "IMG_5656083",
+    "image_path": "data/images/IMG_5656083.jpg"
+  },
+  {
+    "index": 396,
+    "artifact_id": "COMMONS_5656739",
+    "image_id": "IMG_5656739",
+    "image_path": "data/images/IMG_5656739.jpg"
+  },
+  {
+    "index": 397,
+    "artifact_id": "COMMONS_5656773",
+    "image_id": "IMG_5656773",
+    "image_path": "data/images/IMG_5656773.jpg"
+  },
+  {
+    "index": 398,
+    "artifact_id": "COMMONS_5656801",
+    "image_id": "IMG_5656801",
+    "image_path": "data/images/IMG_5656801.jpg"
+  },
+  {
+    "index": 399,
+    "artifact_id": "COMMONS_5656833",
+    "image_id": "IMG_5656833",
+    "image_path": "data/images/IMG_5656833.jpg"
+  },
+  {
+    "index": 400,
+    "artifact_id": "COMMONS_5656862",
+    "image_id": "IMG_5656862",
+    "image_path": "data/images/IMG_5656862.jpg"
+  },
+  {
+    "index": 401,
+    "artifact_id": "COMMONS_5656894",
+    "image_id": "IMG_5656894",
+    "image_path": "data/images/IMG_5656894.jpg"
+  },
+  {
+    "index": 402,
+    "artifact_id": "COMMONS_5656948",
+    "image_id": "IMG_5656948",
+    "image_path": "data/images/IMG_5656948.jpg"
+  },
+  {
+    "index": 403,
+    "artifact_id": "COMMONS_5656972",
+    "image_id": "IMG_5656972",
+    "image_path": "data/images/IMG_5656972.jpg"
+  },
+  {
+    "index": 404,
+    "artifact_id": "COMMONS_5656163",
+    "image_id": "IMG_5656163",
+    "image_path": "data/images/IMG_5656163.jpg"
+  },
+  {
+    "index": 405,
+    "artifact_id": "COMMONS_5656179",
+    "image_id": "IMG_5656179",
+    "image_path": "data/images/IMG_5656179.jpg"
+  },
+  {
+    "index": 406,
+    "artifact_id": "COMMONS_5656202",
+    "image_id": "IMG_5656202",
+    "image_path": "data/images/IMG_5656202.jpg"
+  },
+  {
+    "index": 407,
+    "artifact_id": "COMMONS_40593216",
+    "image_id": "IMG_40593216",
+    "image_path": "data/images/IMG_40593216.jpg"
+  },
+  {
+    "index": 408,
+    "artifact_id": "COMMONS_24671537",
+    "image_id": "IMG_24671537",
+    "image_path": "data/images/IMG_24671537.jpg"
+  },
+  {
+    "index": 409,
+    "artifact_id": "COMMONS_40593219",
+    "image_id": "IMG_40593219",
+    "image_path": "data/images/IMG_40593219.jpg"
+  },
+  {
+    "index": 410,
+    "artifact_id": "COMMONS_69732739",
+    "image_id": "IMG_69732739",
+    "image_path": "data/images/IMG_69732739.jpg"
+  },
+  {
+    "index": 411,
+    "artifact_id": "COMMONS_3655151",
+    "image_id": "IMG_3655151",
+    "image_path": "data/images/IMG_3655151.jpg"
+  },
+  {
+    "index": 412,
+    "artifact_id": "COMMONS_69732743",
+    "image_id": "IMG_69732743",
+    "image_path": "data/images/IMG_69732743.jpg"
+  },
+  {
+    "index": 413,
+    "artifact_id": "COMMONS_40593222",
+    "image_id": "IMG_40593222",
+    "image_path": "data/images/IMG_40593222.jpg"
+  },
+  {
+    "index": 414,
+    "artifact_id": "COMMONS_40027033",
+    "image_id": "IMG_40027033",
+    "image_path": "data/images/IMG_40027033.jpg"
+  },
+  {
+    "index": 415,
+    "artifact_id": "COMMONS_40027029",
+    "image_id": "IMG_40027029",
+    "image_path": "data/images/IMG_40027029.jpg"
+  },
+  {
+    "index": 416,
+    "artifact_id": "COMMONS_40027029",
+    "image_id": "IMG_40027026",
+    "image_path": "data/images/IMG_40027026.jpg"
+  },
+  {
+    "index": 417,
+    "artifact_id": "COMMONS_40027032",
+    "image_id": "IMG_40027032",
+    "image_path": "data/images/IMG_40027032.jpg"
+  },
+  {
+    "index": 418,
+    "artifact_id": "COMMONS_40027027",
+    "image_id": "IMG_40027027",
+    "image_path": "data/images/IMG_40027027.jpg"
+  },
+  {
+    "index": 419,
+    "artifact_id": "COMMONS_64805125",
+    "image_id": "IMG_64805125",
+    "image_path": "data/images/IMG_64805125.jpg"
+  },
+  {
+    "index": 420,
+    "artifact_id": "MET_38314",
+    "image_id": "IMG_MET_38314_primary",
+    "image_path": "data/images/IMG_MET_38314_primary.jpg"
+  },
+  {
+    "index": 421,
+    "artifact_id": "MET_38314",
+    "image_id": "IMG_MET_38314_0",
+    "image_path": "data/images/IMG_MET_38314_0.jpg"
+  },
+  {
+    "index": 422,
+    "artifact_id": "MET_38314",
+    "image_id": "IMG_MET_38314_1",
+    "image_path": "data/images/IMG_MET_38314_1.jpg"
+  },
+  {
+    "index": 423,
+    "artifact_id": "MET_38313",
+    "image_id": "IMG_MET_38313_primary",
+    "image_path": "data/images/IMG_MET_38313_primary.jpg"
+  },
+  {
+    "index": 424,
+    "artifact_id": "MET_38645",
+    "image_id": "IMG_MET_38645_primary",
+    "image_path": "data/images/IMG_MET_38645_primary.jpg"
+  },
+  {
+    "index": 425,
+    "artifact_id": "MET_38645",
+    "image_id": "IMG_MET_38645_0",
+    "image_path": "data/images/IMG_MET_38645_0.jpg"
+  },
+  {
+    "index": 426,
+    "artifact_id": "MET_38645",
+    "image_id": "IMG_MET_38645_1",
+    "image_path": "data/images/IMG_MET_38645_1.jpg"
+  },
+  {
+    "index": 427,
+    "artifact_id": "MET_38645",
+    "image_id": "IMG_MET_38645_2",
+    "image_path": "data/images/IMG_MET_38645_2.jpg"
+  },
+  {
+    "index": 428,
+    "artifact_id": "MET_38905",
+    "image_id": "IMG_MET_38905_primary",
+    "image_path": "data/images/IMG_MET_38905_primary.jpg"
+  },
+  {
+    "index": 429,
+    "artifact_id": "MET_38905",
+    "image_id": "IMG_MET_38905_0",
+    "image_path": "data/images/IMG_MET_38905_0.jpg"
+  }
+]

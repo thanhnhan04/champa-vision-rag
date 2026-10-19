@@ -1,0 +1,8 @@
+Kịch bản,Model Tầng 1,Visual Top-1 (R@1),Ước lượng P(Thuyết minh Đạt | Top-1),Ước tính E2E Success Rate
+2. Cleaned Labels,Weighted (0.7 CLIP + 0.3 DINOv2),71.3%,95.0% (19/20),67.7%
+2. Cleaned Labels,CLIP ViT-B/32,70.9%,95.0% (19/20),67.4%
+2. Cleaned Labels,SigLIP vit-base,67.2%,95.0% (19/20),63.8%
+3. Cleaned Strict,Weighted (0.7 CLIP + 0.3 DINOv2),69.8%,95.0% (19/20),66.3%
+3. Cleaned Strict,CLIP ViT-B/32,69.4%,95.0% (19/20),65.9%
+3. Cleaned Strict,SigLIP vit-base,66.5%,95.0% (19/20),63.2%
+3. Cleaned Strict,DINOv2 dinov2-base,59.5%,95.0% (19/20),56.5%

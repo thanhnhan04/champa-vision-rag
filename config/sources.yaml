@@ -1,0 +1,44 @@
+# Cấu hình chung
+global:
+  default_delay: 1.5
+  user_agent: "ChampaThesisBot/0.1 (contact: email@truong.edu.vn)"
+
+# Danh sách giấy phép được phép sử dụng (cần được chuẩn hóa)
+allowed_licenses:
+  - cc-by-sa-4.0
+  - cc-by-4.0
+  - cc-by-3.0
+  - cc-by-2.0
+  - cc0-1.0
+  - publicdomain
+  - pd
+
+sources:
+  wikidata:
+    name: "Wikidata"
+    delay: 2.0
+    
+  cma:
+    name: "Cleveland Museum of Art"
+    delay: 1.0
+
+  commons:
+    name: "Wikimedia Commons"
+    api_url: "https://commons.wikimedia.org/w/api.php"
+    delay: 1.5
+    categories: 
+      - "Category:Sculptures at the Museum of Cham Sculpture"
+      - "Category:Cham sculptures"
+      - "Category:Museum of Cham Sculpture"
+      - "Category:Champa Culture Collections of the Ho Chi Minh City Museum of History"
+      - "Category:Cham sculptures in the Ho Chi Minh City Museum of History"
+      - "Category:Collection of Cham sculptures in the Musée Guimet"
+      - "Category:Collection of Cham sculptures in the National Museum of Vietnamese History"
+      - "Category:Cham sculptures in the Vietnam National Museum of Fine Arts"
+      - "Category:Cham art in the British Museum"
+      - "Category:Art of Vietnam in the Art Institute of Chicago"
+
+
+  met:
+    name: "The Metropolitan Museum of Art"
+    delay: 1.0

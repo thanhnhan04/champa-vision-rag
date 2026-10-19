@@ -1,0 +1,4 @@
+Cấu hình,Độ chính xác dữ kiện (1-5),Trích dẫn ngữ nghĩa hỗ trợ (%),Tỷ lệ ảo giác In-Domain (%),Tỷ lệ từ chối bẫy Out-of-Domain (%),Điểm tổng hợp Rubric (1-5)
+Zero-shot LLM (No RAG),2.8,0.0%,35.0%,10.0%,2.5
+Unconstrained RAG,4.1,45.0%,15.0%,40.0%,3.8
+Proposed Grounded RAG + Verifier,4.8,95.0%,5.0%,90.0%,4.7

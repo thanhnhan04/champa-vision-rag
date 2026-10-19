@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches and logs
+logs/
+*.log
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environments
+.env
+.venv/
+venv/
+ENV/
+env/
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Heavy datasets & model weights (Avoid GitHub 100MB file limit & repo size limit)
+data/images/
+data/raw/
+data/processed/
+data/audio_cache/
+models/
+
+# Ensure essential data and artifacts are tracked
+!data/demo_samples/
+!data/rag_knowledge/
+!data/metadata_cleaned.csv
+!data/metadata.csv
+!data/label_audit_log.csv
+!data/attribution_manifest.csv
+!data/artifacts_summary.txt

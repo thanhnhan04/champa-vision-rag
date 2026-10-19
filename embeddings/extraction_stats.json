@@ -1,0 +1,22 @@
+{
+  "clip": {
+    "latency_ms": 169.57896421121995,
+    "dim": 512,
+    "model_name": "openai/clip-vit-base-patch32"
+  },
+  "siglip": {
+    "latency_ms": 250.57449451712677,
+    "dim": 768,
+    "model_name": "google/siglip-base-patch16-224"
+  },
+  "dino": {
+    "latency_ms": 268.6811280805011,
+    "dim": 768,
+    "model_name": "facebook/dinov2-base"
+  },
+  "hybrid_dino_siglip": {
+    "latency_ms": 519.2556225976278,
+    "dim": 1536,
+    "model_name": "Fused (DINOv2 + SigLIP)"
+  }
+}

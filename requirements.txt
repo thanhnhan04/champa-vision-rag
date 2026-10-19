@@ -1,0 +1,26 @@
+# Core Machine Learning & Vision
+torch>=2.0.0
+transformers>=4.38.0
+Pillow>=10.0.0
+numpy>=1.24.0
+pandas>=2.0.0
+onnxruntime>=1.17.0
+huggingface-hub>=0.20.0
+
+# Speech Synthesis (TTS)
+piper-tts>=1.8.0
+
+# Web Application & Visualization
+streamlit>=1.32.0
+
+# Image Processing & Deduplication
+imagehash>=4.3.1
+
+# Data Crawling & Parsing
+httpx>=0.25.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+tenacity>=8.2.0
+tqdm>=4.66.0
+PyYAML>=6.0.0
+pydantic>=2.0.0
