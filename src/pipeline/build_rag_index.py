@@ -30,6 +30,11 @@ DOC_METADATA = {
         "doc_id": "DOC04_MUSEUMS",
         "category": "museum_collections",
         "authority": "Bảo tàng Điêu khắc Chăm Đà Nẵng, BTLS TP.HCM, Guimet, The Met"
+    },
+    "05_dvarapala_guardians.md": {
+        "doc_id": "DOC05_DVARAPALA",
+        "category": "dvarapala_guardians",
+        "authority": "PGS.TS Ngô Văn Doanh / Tạp chí PTKTXH Đà Nẵng & Bảo tàng Điêu khắc Chăm"
     }
 }
 

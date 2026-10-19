@@ -58,7 +58,7 @@ class ChampaRAGService:
             "phật": (["phật đồng dương", "phật", "buddha", "thích ca"], ["ganesha", "tara", "gajasimha"]),
             "shiva": (["shiva", "siva", "phong lệ", "natraja"], ["tara", "ganesha"]),
             "vishnu": (["vishnu", "khương mỹ", "anantasayin"], ["tara", "ganesha"]),
-            "brahma": (["brahma"], ["tara", "ganesha"]),
+            "brahma": (["brahma", "đản sinh brahma"], ["tara", "ganesha"]),
             "apsara": (["apsara", "vũ nữ", "nhạc công", "gandharva", "dancer"], ["ganesha", "tara"]),
             "garuda": (["garuda", "kim sí điểu"], ["ganesha", "tara"]),
             "gajasimha": (["gajasimha", "voi - sư tử"], ["ganesha", "tara", "buddha"]),
@@ -67,6 +67,9 @@ class ChampaRAGService:
             "đài thờ mỹ sơn e1": (["đài thờ mỹ sơn e1", "my son e1 pedestal"], ["tara", "ganesha", "phật"]),
             "đài thờ trà kiệu": (["đài thờ trà kiệu", "tra kieu altar"], ["tara", "ganesha", "phật"]),
             "đài thờ đồng dương": (["đài thờ đồng dương", "dong duong altar"], ["ganesha", "tara"]),
+            "hộ pháp": (["hộ pháp", "dvarapala", "mã chùa", "lokapala", "thiên vương", "môn thần"], ["tara", "ganesha"]),
+            "uma": (["uma", "nữ thần uma", "chánh lộ"], ["tara", "ganesha"]),
+            "rồng": (["tượng rồng", "rồng tháp mẫm"], ["tara", "ganesha"]),
         }
 
         # 1. Xác định thực thể cốt lõi từ tên hiện vật (ưu tiên cao nhất)
