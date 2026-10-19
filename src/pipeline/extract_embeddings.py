@@ -10,7 +10,12 @@ import numpy as np
 import pandas as pd
 from PIL import Image
 import torch
-from transformers import AutoModel, AutoProcessor, AutoImageProcessor
+try:
+    from transformers import AutoModel, AutoProcessor, AutoImageProcessor
+except (ImportError, AttributeError):
+    from transformers.models.auto.modeling_auto import AutoModel
+    from transformers.models.auto.processing_auto import AutoProcessor
+    from transformers.models.auto.image_processing_auto import AutoImageProcessor
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)

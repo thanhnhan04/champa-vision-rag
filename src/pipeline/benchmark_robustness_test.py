@@ -17,7 +17,11 @@ import numpy as np
 import pandas as pd
 from PIL import Image
 import torch
-from transformers import AutoProcessor, AutoModel
+try:
+    from transformers import AutoProcessor, AutoModel
+except (ImportError, AttributeError):
+    from transformers.models.auto.processing_auto import AutoProcessor
+    from transformers.models.auto.modeling_auto import AutoModel
 
 # 1. Letterbox Padding
 def letterbox_pad(img: Image.Image, target_size=(224, 224), pad_color=(128, 128, 128)) -> Image.Image:

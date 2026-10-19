@@ -17,7 +17,20 @@ import numpy as np
 import pandas as pd
 from PIL import Image
 import torch
-from transformers import AutoProcessor, AutoModel
+
+# Nhập các thư viện trích xuất đặc trưng với cơ chế fallback trực tiếp
+try:
+    from transformers import AutoProcessor, AutoModel, AutoImageProcessor
+except (ImportError, AttributeError):
+    try:
+        from transformers.models.auto.processing_auto import AutoProcessor
+        from transformers.models.auto.modeling_auto import AutoModel
+        from transformers.models.auto.image_processing_auto import AutoImageProcessor
+    except (ImportError, AttributeError):
+        try:
+            from transformers.models.auto import AutoProcessor, AutoModel, AutoImageProcessor
+        except (ImportError, AttributeError):
+            AutoProcessor, AutoModel, AutoImageProcessor = None, None, None
 
 # Thiết lập đường dẫn thư mục gốc dự án
 PROJECT_ROOT = Path(__file__).resolve().parent
@@ -209,6 +222,15 @@ def load_gallery_embeddings(valid_idx):
 @st.cache_resource(show_spinner=False)
 def get_vision_model(model_key: str):
     """Nạp on-demand mô hình trích xuất đặc trưng"""
+    global AutoProcessor, AutoModel, AutoImageProcessor
+    if AutoProcessor is None or AutoModel is None:
+        try:
+            from transformers.models.auto.processing_auto import AutoProcessor
+            from transformers.models.auto.modeling_auto import AutoModel
+            from transformers.models.auto.image_processing_auto import AutoImageProcessor
+        except ImportError:
+            from transformers import AutoProcessor, AutoModel, AutoImageProcessor
+
     device = "cpu"
     if model_key == "clip":
         processor = AutoProcessor.from_pretrained("openai/clip-vit-base-patch32")
@@ -219,7 +241,8 @@ def get_vision_model(model_key: str):
         model = AutoModel.from_pretrained("google/siglip-base-patch16-224").to(device)
         return processor, model, "siglip"
     elif model_key == "dino":
-        processor = AutoProcessor.from_pretrained("facebook/dinov2-base")
+        proc_cls = AutoImageProcessor if AutoImageProcessor is not None else AutoProcessor
+        processor = proc_cls.from_pretrained("facebook/dinov2-base")
         model = AutoModel.from_pretrained("facebook/dinov2-base").to(device)
         return processor, model, "dino"
     elif model_key == "weighted":
