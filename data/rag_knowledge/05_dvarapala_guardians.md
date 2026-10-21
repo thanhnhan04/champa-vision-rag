@@ -54,3 +54,4 @@
 ### 2.5. Các di tích Hộ pháp khác tại miền Trung
 * **Cụm Hộ pháp Thu Bồn (Quảng Nam):** Gồm 3 pho tượng Dvarapala phát hiện cuối năm 1903 (ghi chép bởi Henri Parmentier và Jean Boisselier), đánh dấu sự phục hưng của các khuôn mẫu Hộ pháp hung dữ thời kỳ Chánh Lộ (thế kỷ XI).
 * **Cặp Hộ pháp khổng lồ Chùa Nhạn Sơn (Bình Định):** Tạc bằng đá sa thạch đỏ đồ sộ thời kỳ Tháp Mẫm, dân gian địa phương thường tôn kính gọi là tượng "Ông Đỏ - Ông Đen", hiện đã được Thủ tướng Chính phủ công nhận là **Bảo vật Quốc gia**.
+

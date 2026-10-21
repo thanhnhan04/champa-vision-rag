@@ -2138,5 +2138,1210 @@
     "image_id": "IMG_MET_38905_0",
     "artifact_id": "MET_38905",
     "artifact_id_raw": "MET_38905"
+  },
+  {
+    "image_id": "IMG_CMA_150549",
+    "artifact_id": "CMA_150549",
+    "artifact_id_raw": "CMA_150549"
+  },
+  {
+    "image_id": "IMG_MET_286932",
+    "artifact_id": "MET_286932",
+    "artifact_id_raw": "MET_286932"
+  },
+  {
+    "image_id": "IMG_MET_37945",
+    "artifact_id": "MET_37945",
+    "artifact_id_raw": "MET_37945"
+  },
+  {
+    "image_id": "IMG_MET_37945_v1",
+    "artifact_id": "MET_37945",
+    "artifact_id_raw": "MET_37945"
+  },
+  {
+    "image_id": "IMG_MET_39228",
+    "artifact_id": "MET_39228",
+    "artifact_id_raw": "MET_39228"
+  },
+  {
+    "image_id": "IMG_MET_74502",
+    "artifact_id": "MET_74502",
+    "artifact_id_raw": "MET_74502"
+  },
+  {
+    "image_id": "IMG_MET_74502_v1",
+    "artifact_id": "MET_74502",
+    "artifact_id_raw": "MET_74502"
+  },
+  {
+    "image_id": "IMG_MET_680821",
+    "artifact_id": "MET_680821",
+    "artifact_id_raw": "MET_680821"
+  },
+  {
+    "image_id": "IMG_MET_680821_v1",
+    "artifact_id": "MET_680821",
+    "artifact_id_raw": "MET_680821"
+  },
+  {
+    "image_id": "IMG_MET_680821_v2",
+    "artifact_id": "MET_680821",
+    "artifact_id_raw": "MET_680821"
+  },
+  {
+    "image_id": "IMG_MET_680821_v3",
+    "artifact_id": "MET_680821",
+    "artifact_id_raw": "MET_680821"
+  },
+  {
+    "image_id": "IMG_MET_680821_v4",
+    "artifact_id": "MET_680821",
+    "artifact_id_raw": "MET_680821"
+  },
+  {
+    "image_id": "IMG_MET_680821_v5",
+    "artifact_id": "MET_680821",
+    "artifact_id_raw": "MET_680821"
+  },
+  {
+    "image_id": "IMG_MET_682098",
+    "artifact_id": "MET_682098",
+    "artifact_id_raw": "MET_682098"
+  },
+  {
+    "image_id": "IMG_MET_682098_v1",
+    "artifact_id": "MET_682098",
+    "artifact_id_raw": "MET_682098"
+  },
+  {
+    "image_id": "IMG_MET_682098_v2",
+    "artifact_id": "MET_682098",
+    "artifact_id_raw": "MET_682098"
+  },
+  {
+    "image_id": "IMG_MET_682098_v3",
+    "artifact_id": "MET_682098",
+    "artifact_id_raw": "MET_682098"
+  },
+  {
+    "image_id": "IMG_MET_682098_v4",
+    "artifact_id": "MET_682098",
+    "artifact_id_raw": "MET_682098"
+  },
+  {
+    "image_id": "IMG_MET_682098_v5",
+    "artifact_id": "MET_682098",
+    "artifact_id_raw": "MET_682098"
+  },
+  {
+    "image_id": "IMG_101204441",
+    "artifact_id": "COMMONS_101204441",
+    "artifact_id_raw": "COMMONS_101204441"
+  },
+  {
+    "image_id": "IMG_4262486",
+    "artifact_id": "COMMONS_4262486",
+    "artifact_id_raw": "COMMONS_4262486"
+  },
+  {
+    "image_id": "IMG_62404866",
+    "artifact_id": "COMMONS_62404866",
+    "artifact_id_raw": "COMMONS_62404866"
+  },
+  {
+    "image_id": "IMG_62404874",
+    "artifact_id": "COMMONS_62404874",
+    "artifact_id_raw": "COMMONS_62404874"
+  },
+  {
+    "image_id": "IMG_62404882",
+    "artifact_id": "COMMONS_62404882",
+    "artifact_id_raw": "COMMONS_62404882"
+  },
+  {
+    "image_id": "IMG_62404887",
+    "artifact_id": "COMMONS_62404887",
+    "artifact_id_raw": "COMMONS_62404887"
+  },
+  {
+    "image_id": "IMG_62404891",
+    "artifact_id": "COMMONS_62404891",
+    "artifact_id_raw": "COMMONS_62404891"
+  },
+  {
+    "image_id": "IMG_62404894",
+    "artifact_id": "COMMONS_62404894",
+    "artifact_id_raw": "COMMONS_62404894"
+  },
+  {
+    "image_id": "IMG_62404896",
+    "artifact_id": "COMMONS_62404896",
+    "artifact_id_raw": "COMMONS_62404896"
+  },
+  {
+    "image_id": "IMG_17416219",
+    "artifact_id": "COMMONS_17416219",
+    "artifact_id_raw": "COMMONS_17416219"
+  },
+  {
+    "image_id": "IMG_34471971",
+    "artifact_id": "COMMONS_34471971",
+    "artifact_id_raw": "COMMONS_34471971"
+  },
+  {
+    "image_id": "IMG_34471988",
+    "artifact_id": "COMMONS_34471988",
+    "artifact_id_raw": "COMMONS_34471988"
+  },
+  {
+    "image_id": "IMG_34483156",
+    "artifact_id": "COMMONS_34483156",
+    "artifact_id_raw": "COMMONS_34483156"
+  },
+  {
+    "image_id": "IMG_34483157",
+    "artifact_id": "COMMONS_34483157",
+    "artifact_id_raw": "COMMONS_34483157"
+  },
+  {
+    "image_id": "IMG_34483163",
+    "artifact_id": "COMMONS_34483163",
+    "artifact_id_raw": "COMMONS_34483163"
+  },
+  {
+    "image_id": "IMG_34483164",
+    "artifact_id": "COMMONS_34483164",
+    "artifact_id_raw": "COMMONS_34483164"
+  },
+  {
+    "image_id": "IMG_34483165",
+    "artifact_id": "COMMONS_34483165",
+    "artifact_id_raw": "COMMONS_34483165"
+  },
+  {
+    "image_id": "IMG_17416388",
+    "artifact_id": "COMMONS_17416388",
+    "artifact_id_raw": "COMMONS_17416388"
+  },
+  {
+    "image_id": "IMG_34483170",
+    "artifact_id": "COMMONS_34483170",
+    "artifact_id_raw": "COMMONS_34483170"
+  },
+  {
+    "image_id": "IMG_24671213",
+    "artifact_id": "COMMONS_24671213",
+    "artifact_id_raw": "COMMONS_24671213"
+  },
+  {
+    "image_id": "IMG_34471239",
+    "artifact_id": "COMMONS_34471239",
+    "artifact_id_raw": "COMMONS_34471239"
+  },
+  {
+    "image_id": "IMG_34471241",
+    "artifact_id": "COMMONS_34471241",
+    "artifact_id_raw": "COMMONS_34471241"
+  },
+  {
+    "image_id": "IMG_34471244",
+    "artifact_id": "COMMONS_34471244",
+    "artifact_id_raw": "COMMONS_34471244"
+  },
+  {
+    "image_id": "IMG_34471245",
+    "artifact_id": "COMMONS_34471245",
+    "artifact_id_raw": "COMMONS_34471245"
+  },
+  {
+    "image_id": "IMG_34471246",
+    "artifact_id": "COMMONS_34471246",
+    "artifact_id_raw": "COMMONS_34471246"
+  },
+  {
+    "image_id": "IMG_34471250",
+    "artifact_id": "COMMONS_34471250",
+    "artifact_id_raw": "COMMONS_34471250"
+  },
+  {
+    "image_id": "IMG_34471251",
+    "artifact_id": "COMMONS_34471251",
+    "artifact_id_raw": "COMMONS_34471251"
+  },
+  {
+    "image_id": "IMG_34471266",
+    "artifact_id": "COMMONS_34471266",
+    "artifact_id_raw": "COMMONS_34471266"
+  },
+  {
+    "image_id": "IMG_24671214",
+    "artifact_id": "COMMONS_24671214",
+    "artifact_id_raw": "COMMONS_24671214"
+  },
+  {
+    "image_id": "IMG_4262489",
+    "artifact_id": "COMMONS_4262489",
+    "artifact_id_raw": "COMMONS_4262489"
+  },
+  {
+    "image_id": "IMG_34471276",
+    "artifact_id": "COMMONS_34471276",
+    "artifact_id_raw": "COMMONS_34471276"
+  },
+  {
+    "image_id": "IMG_34471277",
+    "artifact_id": "COMMONS_34471277",
+    "artifact_id_raw": "COMMONS_34471277"
+  },
+  {
+    "image_id": "IMG_34483549",
+    "artifact_id": "COMMONS_34483549",
+    "artifact_id_raw": "COMMONS_34483549"
+  },
+  {
+    "image_id": "IMG_34483835",
+    "artifact_id": "COMMONS_34483835",
+    "artifact_id_raw": "COMMONS_34483835"
+  },
+  {
+    "image_id": "IMG_24671211",
+    "artifact_id": "COMMONS_24671211",
+    "artifact_id_raw": "COMMONS_24671211"
+  },
+  {
+    "image_id": "IMG_34484322",
+    "artifact_id": "COMMONS_34484322",
+    "artifact_id_raw": "COMMONS_34484322"
+  },
+  {
+    "image_id": "IMG_34484682",
+    "artifact_id": "COMMONS_34484682",
+    "artifact_id_raw": "COMMONS_34484682"
+  },
+  {
+    "image_id": "IMG_34485002",
+    "artifact_id": "COMMONS_34485002",
+    "artifact_id_raw": "COMMONS_34485002"
+  },
+  {
+    "image_id": "IMG_34485000",
+    "artifact_id": "COMMONS_34485000",
+    "artifact_id_raw": "COMMONS_34485000"
+  },
+  {
+    "image_id": "IMG_4262492",
+    "artifact_id": "COMMONS_4262492",
+    "artifact_id_raw": "COMMONS_4262492"
+  },
+  {
+    "image_id": "IMG_17438178",
+    "artifact_id": "COMMONS_17438178",
+    "artifact_id_raw": "COMMONS_17438178"
+  },
+  {
+    "image_id": "IMG_24671216",
+    "artifact_id": "COMMONS_24671216",
+    "artifact_id_raw": "COMMONS_24671216"
+  },
+  {
+    "image_id": "IMG_34525212",
+    "artifact_id": "COMMONS_34525212",
+    "artifact_id_raw": "COMMONS_34525212"
+  },
+  {
+    "image_id": "IMG_95769739",
+    "artifact_id": "COMMONS_95769739",
+    "artifact_id_raw": "COMMONS_95769739"
+  },
+  {
+    "image_id": "IMG_34525216",
+    "artifact_id": "COMMONS_34525216",
+    "artifact_id_raw": "COMMONS_34525216"
+  },
+  {
+    "image_id": "IMG_24671208",
+    "artifact_id": "COMMONS_24671208",
+    "artifact_id_raw": "COMMONS_24671208"
+  },
+  {
+    "image_id": "IMG_34525880",
+    "artifact_id": "COMMONS_34525880",
+    "artifact_id_raw": "COMMONS_34525880"
+  },
+  {
+    "image_id": "IMG_22624223",
+    "artifact_id": "COMMONS_22624223",
+    "artifact_id_raw": "COMMONS_22624223"
+  },
+  {
+    "image_id": "IMG_17416254",
+    "artifact_id": "COMMONS_17416254",
+    "artifact_id_raw": "COMMONS_17416254"
+  },
+  {
+    "image_id": "IMG_17437719",
+    "artifact_id": "COMMONS_17437719",
+    "artifact_id_raw": "COMMONS_17437719"
+  },
+  {
+    "image_id": "IMG_17416292",
+    "artifact_id": "COMMONS_17416292",
+    "artifact_id_raw": "COMMONS_17416292"
+  },
+  {
+    "image_id": "IMG_34471980",
+    "artifact_id": "COMMONS_34471980",
+    "artifact_id_raw": "COMMONS_34471980"
+  },
+  {
+    "image_id": "IMG_34471983",
+    "artifact_id": "COMMONS_34471983",
+    "artifact_id_raw": "COMMONS_34471983"
+  },
+  {
+    "image_id": "IMG_34573287",
+    "artifact_id": "COMMONS_34573287",
+    "artifact_id_raw": "COMMONS_34573287"
+  },
+  {
+    "image_id": "IMG_65203168",
+    "artifact_id": "COMMONS_65203168",
+    "artifact_id_raw": "COMMONS_65203168"
+  },
+  {
+    "image_id": "IMG_34483179",
+    "artifact_id": "COMMONS_34483179",
+    "artifact_id_raw": "COMMONS_34483179"
+  },
+  {
+    "image_id": "IMG_34483181",
+    "artifact_id": "COMMONS_34483181",
+    "artifact_id_raw": "COMMONS_34483181"
+  },
+  {
+    "image_id": "IMG_34483332",
+    "artifact_id": "COMMONS_34483332",
+    "artifact_id_raw": "COMMONS_34483332"
+  },
+  {
+    "image_id": "IMG_53874946",
+    "artifact_id": "COMMONS_53874946",
+    "artifact_id_raw": "COMMONS_53874946"
+  },
+  {
+    "image_id": "IMG_34572824",
+    "artifact_id": "COMMONS_34572824",
+    "artifact_id_raw": "COMMONS_34572824"
+  },
+  {
+    "image_id": "IMG_34572842",
+    "artifact_id": "COMMONS_34572842",
+    "artifact_id_raw": "COMMONS_34572842"
+  },
+  {
+    "image_id": "IMG_34572843",
+    "artifact_id": "COMMONS_34572843",
+    "artifact_id_raw": "COMMONS_34572843"
+  },
+  {
+    "image_id": "IMG_34572848",
+    "artifact_id": "COMMONS_34572848",
+    "artifact_id_raw": "COMMONS_34572848"
+  },
+  {
+    "image_id": "IMG_34572865",
+    "artifact_id": "COMMONS_34572865",
+    "artifact_id_raw": "COMMONS_34572865"
+  },
+  {
+    "image_id": "IMG_34572864",
+    "artifact_id": "COMMONS_34572864",
+    "artifact_id_raw": "COMMONS_34572864"
+  },
+  {
+    "image_id": "IMG_34572866",
+    "artifact_id": "COMMONS_34572866",
+    "artifact_id_raw": "COMMONS_34572866"
+  },
+  {
+    "image_id": "IMG_34572868",
+    "artifact_id": "COMMONS_34572868",
+    "artifact_id_raw": "COMMONS_34572868"
+  },
+  {
+    "image_id": "IMG_34572876",
+    "artifact_id": "COMMONS_34572876",
+    "artifact_id_raw": "COMMONS_34572876"
+  },
+  {
+    "image_id": "IMG_34524520",
+    "artifact_id": "COMMONS_34524520",
+    "artifact_id_raw": "COMMONS_34524520"
+  },
+  {
+    "image_id": "IMG_24671223",
+    "artifact_id": "COMMONS_24671223",
+    "artifact_id_raw": "COMMONS_24671223"
+  },
+  {
+    "image_id": "IMG_17426826",
+    "artifact_id": "COMMONS_17426826",
+    "artifact_id_raw": "COMMONS_17426826"
+  },
+  {
+    "image_id": "IMG_34525881",
+    "artifact_id": "COMMONS_34525881",
+    "artifact_id_raw": "COMMONS_34525881"
+  },
+  {
+    "image_id": "IMG_23024855",
+    "artifact_id": "COMMONS_23024855",
+    "artifact_id_raw": "COMMONS_23024855"
+  },
+  {
+    "image_id": "IMG_94133424",
+    "artifact_id": "COMMONS_94133424",
+    "artifact_id_raw": "COMMONS_94133424"
+  },
+  {
+    "image_id": "IMG_17416438",
+    "artifact_id": "COMMONS_17416438",
+    "artifact_id_raw": "COMMONS_17416438"
+  },
+  {
+    "image_id": "IMG_17415074",
+    "artifact_id": "COMMONS_17415074",
+    "artifact_id_raw": "COMMONS_17415074"
+  },
+  {
+    "image_id": "IMG_17414479",
+    "artifact_id": "COMMONS_17414479",
+    "artifact_id_raw": "COMMONS_17414479"
+  },
+  {
+    "image_id": "IMG_17414678",
+    "artifact_id": "COMMONS_17414678",
+    "artifact_id_raw": "COMMONS_17414678"
+  },
+  {
+    "image_id": "IMG_17415052",
+    "artifact_id": "COMMONS_17415052",
+    "artifact_id_raw": "COMMONS_17415052"
+  },
+  {
+    "image_id": "IMG_17416237",
+    "artifact_id": "COMMONS_17416237",
+    "artifact_id_raw": "COMMONS_17416237"
+  },
+  {
+    "image_id": "IMG_132527499",
+    "artifact_id": "COMMONS_132527499",
+    "artifact_id_raw": "COMMONS_132527499"
+  },
+  {
+    "image_id": "IMG_132528013",
+    "artifact_id": "COMMONS_132528013",
+    "artifact_id_raw": "COMMONS_132528013"
+  },
+  {
+    "image_id": "IMG_132527502",
+    "artifact_id": "COMMONS_132527502",
+    "artifact_id_raw": "COMMONS_132527502"
+  },
+  {
+    "image_id": "IMG_132527501",
+    "artifact_id": "COMMONS_132527501",
+    "artifact_id_raw": "COMMONS_132527501"
+  },
+  {
+    "image_id": "IMG_132523085",
+    "artifact_id": "COMMONS_132523085",
+    "artifact_id_raw": "COMMONS_132523085"
+  },
+  {
+    "image_id": "IMG_132528016",
+    "artifact_id": "COMMONS_132528016",
+    "artifact_id_raw": "COMMONS_132528016"
+  },
+  {
+    "image_id": "IMG_132522755",
+    "artifact_id": "COMMONS_132522755",
+    "artifact_id_raw": "COMMONS_132522755"
+  },
+  {
+    "image_id": "IMG_132527505",
+    "artifact_id": "COMMONS_132527505",
+    "artifact_id_raw": "COMMONS_132527505"
+  },
+  {
+    "image_id": "IMG_36663496",
+    "artifact_id": "COMMONS_36663496",
+    "artifact_id_raw": "COMMONS_36663496"
+  },
+  {
+    "image_id": "IMG_34471979",
+    "artifact_id": "COMMONS_34471979",
+    "artifact_id_raw": "COMMONS_34471979"
+  },
+  {
+    "image_id": "IMG_34572785",
+    "artifact_id": "COMMONS_34572785",
+    "artifact_id_raw": "COMMONS_34572785"
+  },
+  {
+    "image_id": "IMG_34471986",
+    "artifact_id": "COMMONS_34471986",
+    "artifact_id_raw": "COMMONS_34471986"
+  },
+  {
+    "image_id": "IMG_132521767",
+    "artifact_id": "COMMONS_132521767",
+    "artifact_id_raw": "COMMONS_132521767"
+  },
+  {
+    "image_id": "IMG_34573286",
+    "artifact_id": "COMMONS_34573286",
+    "artifact_id_raw": "COMMONS_34573286"
+  },
+  {
+    "image_id": "IMG_34483158",
+    "artifact_id": "COMMONS_34483158",
+    "artifact_id_raw": "COMMONS_34483158"
+  },
+  {
+    "image_id": "IMG_34483159",
+    "artifact_id": "COMMONS_34483159",
+    "artifact_id_raw": "COMMONS_34483159"
+  },
+  {
+    "image_id": "IMG_34483161",
+    "artifact_id": "COMMONS_34483161",
+    "artifact_id_raw": "COMMONS_34483161"
+  },
+  {
+    "image_id": "IMG_6286194",
+    "artifact_id": "COMMONS_6286194",
+    "artifact_id_raw": "COMMONS_6286194"
+  },
+  {
+    "image_id": "IMG_34483175",
+    "artifact_id": "COMMONS_34483175",
+    "artifact_id_raw": "COMMONS_34483175"
+  },
+  {
+    "image_id": "IMG_24671215",
+    "artifact_id": "COMMONS_24671215",
+    "artifact_id_raw": "COMMONS_24671215"
+  },
+  {
+    "image_id": "IMG_4262465",
+    "artifact_id": "COMMONS_4262465",
+    "artifact_id_raw": "COMMONS_4262465"
+  },
+  {
+    "image_id": "IMG_34573290",
+    "artifact_id": "COMMONS_34573290",
+    "artifact_id_raw": "COMMONS_34573290"
+  },
+  {
+    "image_id": "IMG_34471233",
+    "artifact_id": "COMMONS_34471233",
+    "artifact_id_raw": "COMMONS_34471233"
+  },
+  {
+    "image_id": "IMG_34471235",
+    "artifact_id": "COMMONS_34471235",
+    "artifact_id_raw": "COMMONS_34471235"
+  },
+  {
+    "image_id": "IMG_34471236",
+    "artifact_id": "COMMONS_34471236",
+    "artifact_id_raw": "COMMONS_34471236"
+  },
+  {
+    "image_id": "IMG_132521757",
+    "artifact_id": "COMMONS_132521757",
+    "artifact_id_raw": "COMMONS_132521757"
+  },
+  {
+    "image_id": "IMG_20185199",
+    "artifact_id": "COMMONS_20185199",
+    "artifact_id_raw": "COMMONS_20185199"
+  },
+  {
+    "image_id": "IMG_34572823",
+    "artifact_id": "COMMONS_34572823",
+    "artifact_id_raw": "COMMONS_34572823"
+  },
+  {
+    "image_id": "IMG_34572825",
+    "artifact_id": "COMMONS_34572825",
+    "artifact_id_raw": "COMMONS_34572825"
+  },
+  {
+    "image_id": "IMG_98787112",
+    "artifact_id": "COMMONS_98787112",
+    "artifact_id_raw": "COMMONS_98787112"
+  },
+  {
+    "image_id": "IMG_34573357",
+    "artifact_id": "COMMONS_34573357",
+    "artifact_id_raw": "COMMONS_34573357"
+  },
+  {
+    "image_id": "IMG_34573360",
+    "artifact_id": "COMMONS_34573360",
+    "artifact_id_raw": "COMMONS_34573360"
+  },
+  {
+    "image_id": "IMG_34573376",
+    "artifact_id": "COMMONS_34573376",
+    "artifact_id_raw": "COMMONS_34573376"
+  },
+  {
+    "image_id": "IMG_34483829",
+    "artifact_id": "COMMONS_34483829",
+    "artifact_id_raw": "COMMONS_34483829"
+  },
+  {
+    "image_id": "IMG_34572827",
+    "artifact_id": "COMMONS_34572827",
+    "artifact_id_raw": "COMMONS_34572827"
+  },
+  {
+    "image_id": "IMG_34605909",
+    "artifact_id": "COMMONS_34605909",
+    "artifact_id_raw": "COMMONS_34605909"
+  },
+  {
+    "image_id": "IMG_34615290",
+    "artifact_id": "COMMONS_34615290",
+    "artifact_id_raw": "COMMONS_34615290"
+  },
+  {
+    "image_id": "IMG_34483832",
+    "artifact_id": "COMMONS_34483832",
+    "artifact_id_raw": "COMMONS_34483832"
+  },
+  {
+    "image_id": "IMG_34605912",
+    "artifact_id": "COMMONS_34605912",
+    "artifact_id_raw": "COMMONS_34605912"
+  },
+  {
+    "image_id": "IMG_34605911",
+    "artifact_id": "COMMONS_34605911",
+    "artifact_id_raw": "COMMONS_34605911"
+  },
+  {
+    "image_id": "IMG_34605916",
+    "artifact_id": "COMMONS_34605916",
+    "artifact_id_raw": "COMMONS_34605916"
+  },
+  {
+    "image_id": "IMG_34572839",
+    "artifact_id": "COMMONS_34572839",
+    "artifact_id_raw": "COMMONS_34572839"
+  },
+  {
+    "image_id": "IMG_34573379",
+    "artifact_id": "COMMONS_34573379",
+    "artifact_id_raw": "COMMONS_34573379"
+  },
+  {
+    "image_id": "IMG_34604387",
+    "artifact_id": "COMMONS_34604387",
+    "artifact_id_raw": "COMMONS_34604387"
+  },
+  {
+    "image_id": "IMG_34604386",
+    "artifact_id": "COMMONS_34604386",
+    "artifact_id_raw": "COMMONS_34604386"
+  },
+  {
+    "image_id": "IMG_34605906",
+    "artifact_id": "COMMONS_34605906",
+    "artifact_id_raw": "COMMONS_34605906"
+  },
+  {
+    "image_id": "IMG_34605908",
+    "artifact_id": "COMMONS_34605908",
+    "artifact_id_raw": "COMMONS_34605908"
+  },
+  {
+    "image_id": "IMG_34573355",
+    "artifact_id": "COMMONS_34573355",
+    "artifact_id_raw": "COMMONS_34573355"
+  },
+  {
+    "image_id": "IMG_34573358",
+    "artifact_id": "COMMONS_34573358",
+    "artifact_id_raw": "COMMONS_34573358"
+  },
+  {
+    "image_id": "IMG_34483831",
+    "artifact_id": "COMMONS_34483831",
+    "artifact_id_raw": "COMMONS_34483831"
+  },
+  {
+    "image_id": "IMG_34483830",
+    "artifact_id": "COMMONS_34483830",
+    "artifact_id_raw": "COMMONS_34483830"
+  },
+  {
+    "image_id": "IMG_34573375",
+    "artifact_id": "COMMONS_34573375",
+    "artifact_id_raw": "COMMONS_34573375"
+  },
+  {
+    "image_id": "IMG_34484293",
+    "artifact_id": "COMMONS_34484293",
+    "artifact_id_raw": "COMMONS_34484293"
+  },
+  {
+    "image_id": "IMG_24671231",
+    "artifact_id": "COMMONS_24671231",
+    "artifact_id_raw": "COMMONS_24671231"
+  },
+  {
+    "image_id": "IMG_34525202",
+    "artifact_id": "COMMONS_34525202",
+    "artifact_id_raw": "COMMONS_34525202"
+  },
+  {
+    "image_id": "IMG_34525206",
+    "artifact_id": "COMMONS_34525206",
+    "artifact_id_raw": "COMMONS_34525206"
+  },
+  {
+    "image_id": "IMG_34525199",
+    "artifact_id": "COMMONS_34525199",
+    "artifact_id_raw": "COMMONS_34525199"
+  },
+  {
+    "image_id": "IMG_17437991",
+    "artifact_id": "COMMONS_17437991",
+    "artifact_id_raw": "COMMONS_17437991"
+  },
+  {
+    "image_id": "IMG_34470727",
+    "artifact_id": "COMMONS_34470727",
+    "artifact_id_raw": "COMMONS_34470727"
+  },
+  {
+    "image_id": "IMG_34483335",
+    "artifact_id": "COMMONS_34483335",
+    "artifact_id_raw": "COMMONS_34483335"
+  },
+  {
+    "image_id": "IMG_34471234",
+    "artifact_id": "COMMONS_34471234",
+    "artifact_id_raw": "COMMONS_34471234"
+  },
+  {
+    "image_id": "IMG_34483836",
+    "artifact_id": "COMMONS_34483836",
+    "artifact_id_raw": "COMMONS_34483836"
+  },
+  {
+    "image_id": "IMG_34483838",
+    "artifact_id": "COMMONS_34483838",
+    "artifact_id_raw": "COMMONS_34483838"
+  },
+  {
+    "image_id": "IMG_34484292",
+    "artifact_id": "COMMONS_34484292",
+    "artifact_id_raw": "COMMONS_34484292"
+  },
+  {
+    "image_id": "IMG_34484315",
+    "artifact_id": "COMMONS_34484315",
+    "artifact_id_raw": "COMMONS_34484315"
+  },
+  {
+    "image_id": "IMG_34525197",
+    "artifact_id": "COMMONS_34525197",
+    "artifact_id_raw": "COMMONS_34525197"
+  },
+  {
+    "image_id": "IMG_95903122",
+    "artifact_id": "COMMONS_95903122",
+    "artifact_id_raw": "COMMONS_95903122"
+  },
+  {
+    "image_id": "IMG_34525239",
+    "artifact_id": "COMMONS_34525239",
+    "artifact_id_raw": "COMMONS_34525239"
+  },
+  {
+    "image_id": "IMG_34525879",
+    "artifact_id": "COMMONS_34525879",
+    "artifact_id_raw": "COMMONS_34525879"
+  },
+  {
+    "image_id": "IMG_34525886",
+    "artifact_id": "COMMONS_34525886",
+    "artifact_id_raw": "COMMONS_34525886"
+  },
+  {
+    "image_id": "IMG_34525888",
+    "artifact_id": "COMMONS_34525888",
+    "artifact_id_raw": "COMMONS_34525888"
+  },
+  {
+    "image_id": "IMG_34605907",
+    "artifact_id": "COMMONS_34605907",
+    "artifact_id_raw": "COMMONS_34605907"
+  },
+  {
+    "image_id": "IMG_34573378",
+    "artifact_id": "COMMONS_34573378",
+    "artifact_id_raw": "COMMONS_34573378"
+  },
+  {
+    "image_id": "IMG_34573395",
+    "artifact_id": "COMMONS_34573395",
+    "artifact_id_raw": "COMMONS_34573395"
+  },
+  {
+    "image_id": "IMG_24671232",
+    "artifact_id": "COMMONS_24671232",
+    "artifact_id_raw": "COMMONS_24671232"
+  },
+  {
+    "image_id": "IMG_34525892",
+    "artifact_id": "COMMONS_34525892",
+    "artifact_id_raw": "COMMONS_34525892"
+  },
+  {
+    "image_id": "IMG_34525898",
+    "artifact_id": "COMMONS_34525898",
+    "artifact_id_raw": "COMMONS_34525898"
+  },
+  {
+    "image_id": "IMG_34525904",
+    "artifact_id": "COMMONS_34525904",
+    "artifact_id_raw": "COMMONS_34525904"
+  },
+  {
+    "image_id": "IMG_34604385",
+    "artifact_id": "COMMONS_34604385",
+    "artifact_id_raw": "COMMONS_34604385"
+  },
+  {
+    "image_id": "IMG_34604389",
+    "artifact_id": "COMMONS_34604389",
+    "artifact_id_raw": "COMMONS_34604389"
+  },
+  {
+    "image_id": "IMG_34604390",
+    "artifact_id": "COMMONS_34604390",
+    "artifact_id_raw": "COMMONS_34604390"
+  },
+  {
+    "image_id": "IMG_34606672",
+    "artifact_id": "COMMONS_34606672",
+    "artifact_id_raw": "COMMONS_34606672"
+  },
+  {
+    "image_id": "IMG_34615621",
+    "artifact_id": "COMMONS_34615621",
+    "artifact_id_raw": "COMMONS_34615621"
+  },
+  {
+    "image_id": "IMG_34615622",
+    "artifact_id": "COMMONS_34615622",
+    "artifact_id_raw": "COMMONS_34615622"
+  },
+  {
+    "image_id": "IMG_94012977",
+    "artifact_id": "COMMONS_94012977",
+    "artifact_id_raw": "COMMONS_94012977"
+  },
+  {
+    "image_id": "IMG_93978850",
+    "artifact_id": "COMMONS_93978850",
+    "artifact_id_raw": "COMMONS_93978850"
+  },
+  {
+    "image_id": "IMG_34471967",
+    "artifact_id": "COMMONS_34471967",
+    "artifact_id_raw": "COMMONS_34471967"
+  },
+  {
+    "image_id": "IMG_34471965",
+    "artifact_id": "COMMONS_34471965",
+    "artifact_id_raw": "COMMONS_34471965"
+  },
+  {
+    "image_id": "IMG_34471968",
+    "artifact_id": "COMMONS_34471968",
+    "artifact_id_raw": "COMMONS_34471968"
+  },
+  {
+    "image_id": "IMG_34471970",
+    "artifact_id": "COMMONS_34471970",
+    "artifact_id_raw": "COMMONS_34471970"
+  },
+  {
+    "image_id": "IMG_34471972",
+    "artifact_id": "COMMONS_34471972",
+    "artifact_id_raw": "COMMONS_34471972"
+  },
+  {
+    "image_id": "IMG_4262484",
+    "artifact_id": "COMMONS_4262484",
+    "artifact_id_raw": "COMMONS_4262484"
+  },
+  {
+    "image_id": "IMG_40027031",
+    "artifact_id": "COMMONS_40027031",
+    "artifact_id_raw": "COMMONS_40027031"
+  },
+  {
+    "image_id": "IMG_69732588",
+    "artifact_id": "COMMONS_69732588",
+    "artifact_id_raw": "COMMONS_69732588"
+  },
+  {
+    "image_id": "IMG_69732587",
+    "artifact_id": "COMMONS_69732587",
+    "artifact_id_raw": "COMMONS_69732587"
+  },
+  {
+    "image_id": "IMG_24671229",
+    "artifact_id": "COMMONS_24671229",
+    "artifact_id_raw": "COMMONS_24671229"
+  },
+  {
+    "image_id": "IMG_22624189",
+    "artifact_id": "COMMONS_22624189",
+    "artifact_id_raw": "COMMONS_22624189"
+  },
+  {
+    "image_id": "IMG_22624191",
+    "artifact_id": "COMMONS_22624191",
+    "artifact_id_raw": "COMMONS_22624191"
+  },
+  {
+    "image_id": "IMG_34572822",
+    "artifact_id": "COMMONS_34572822",
+    "artifact_id_raw": "COMMONS_34572822"
+  },
+  {
+    "image_id": "IMG_34572821",
+    "artifact_id": "COMMONS_34572821",
+    "artifact_id_raw": "COMMONS_34572821"
+  },
+  {
+    "image_id": "IMG_25653318",
+    "artifact_id": "COMMONS_25653318",
+    "artifact_id_raw": "COMMONS_25653318"
+  },
+  {
+    "image_id": "IMG_18023526",
+    "artifact_id": "COMMONS_18023526",
+    "artifact_id_raw": "COMMONS_18023526"
+  },
+  {
+    "image_id": "IMG_149131102",
+    "artifact_id": "COMMONS_149131102",
+    "artifact_id_raw": "COMMONS_149131102"
+  },
+  {
+    "image_id": "IMG_149131107",
+    "artifact_id": "COMMONS_149131107",
+    "artifact_id_raw": "COMMONS_149131107"
+  },
+  {
+    "image_id": "IMG_149131108",
+    "artifact_id": "COMMONS_149131108",
+    "artifact_id_raw": "COMMONS_149131108"
+  },
+  {
+    "image_id": "IMG_149131110",
+    "artifact_id": "COMMONS_149131110",
+    "artifact_id_raw": "COMMONS_149131110"
+  },
+  {
+    "image_id": "IMG_149131113",
+    "artifact_id": "COMMONS_149131113",
+    "artifact_id_raw": "COMMONS_149131113"
+  },
+  {
+    "image_id": "IMG_149131114",
+    "artifact_id": "COMMONS_149131114",
+    "artifact_id_raw": "COMMONS_149131114"
+  },
+  {
+    "image_id": "IMG_149131115",
+    "artifact_id": "COMMONS_149131115",
+    "artifact_id_raw": "COMMONS_149131115"
+  },
+  {
+    "image_id": "IMG_149131116",
+    "artifact_id": "COMMONS_149131116",
+    "artifact_id_raw": "COMMONS_149131116"
+  },
+  {
+    "image_id": "IMG_149131103",
+    "artifact_id": "COMMONS_149131103",
+    "artifact_id_raw": "COMMONS_149131103"
+  },
+  {
+    "image_id": "IMG_69732592",
+    "artifact_id": "COMMONS_69732592",
+    "artifact_id_raw": "COMMONS_69732592"
+  },
+  {
+    "image_id": "IMG_69732590",
+    "artifact_id": "COMMONS_69732590",
+    "artifact_id_raw": "COMMONS_69732590"
+  },
+  {
+    "image_id": "IMG_95746368",
+    "artifact_id": "COMMONS_95746368",
+    "artifact_id_raw": "COMMONS_95746368"
+  },
+  {
+    "image_id": "IMG_40027034",
+    "artifact_id": "COMMONS_40027034",
+    "artifact_id_raw": "COMMONS_40027034"
+  },
+  {
+    "image_id": "IMG_40766097",
+    "artifact_id": "COMMONS_40766097",
+    "artifact_id_raw": "COMMONS_40766097"
+  },
+  {
+    "image_id": "IMG_24777831",
+    "artifact_id": "COMMONS_24777831",
+    "artifact_id_raw": "COMMONS_24777831"
+  },
+  {
+    "image_id": "IMG_24777837",
+    "artifact_id": "COMMONS_24777837",
+    "artifact_id_raw": "COMMONS_24777837"
+  },
+  {
+    "image_id": "IMG_24777836",
+    "artifact_id": "COMMONS_24777836",
+    "artifact_id_raw": "COMMONS_24777836"
+  },
+  {
+    "image_id": "IMG_20727366",
+    "artifact_id": "COMMONS_20727366",
+    "artifact_id_raw": "COMMONS_20727366"
+  },
+  {
+    "image_id": "IMG_2889244",
+    "artifact_id": "COMMONS_2889244",
+    "artifact_id_raw": "COMMONS_2889244"
+  },
+  {
+    "image_id": "IMG_2889298",
+    "artifact_id": "COMMONS_2889298",
+    "artifact_id_raw": "COMMONS_2889298"
+  },
+  {
+    "image_id": "IMG_2889520",
+    "artifact_id": "COMMONS_2889520",
+    "artifact_id_raw": "COMMONS_2889520"
+  },
+  {
+    "image_id": "IMG_2889577",
+    "artifact_id": "COMMONS_2889577",
+    "artifact_id_raw": "COMMONS_2889577"
+  },
+  {
+    "image_id": "IMG_2889639",
+    "artifact_id": "COMMONS_2889639",
+    "artifact_id_raw": "COMMONS_2889639"
+  },
+  {
+    "image_id": "IMG_2889688",
+    "artifact_id": "COMMONS_2889688",
+    "artifact_id_raw": "COMMONS_2889688"
+  },
+  {
+    "image_id": "IMG_2888992",
+    "artifact_id": "COMMONS_2888992",
+    "artifact_id_raw": "COMMONS_2888992"
+  },
+  {
+    "image_id": "IMG_2888389",
+    "artifact_id": "COMMONS_2888389",
+    "artifact_id_raw": "COMMONS_2888389"
+  },
+  {
+    "image_id": "IMG_2888582",
+    "artifact_id": "COMMONS_2888582",
+    "artifact_id_raw": "COMMONS_2888582"
+  },
+  {
+    "image_id": "IMG_2888691",
+    "artifact_id": "COMMONS_2888691",
+    "artifact_id_raw": "COMMONS_2888691"
+  },
+  {
+    "image_id": "IMG_4262469",
+    "artifact_id": "COMMONS_4262469",
+    "artifact_id_raw": "COMMONS_4262469"
+  },
+  {
+    "image_id": "IMG_2969248",
+    "artifact_id": "COMMONS_2969248",
+    "artifact_id_raw": "COMMONS_2969248"
+  },
+  {
+    "image_id": "IMG_4262490",
+    "artifact_id": "COMMONS_4262490",
+    "artifact_id_raw": "COMMONS_4262490"
+  },
+  {
+    "image_id": "IMG_2969302",
+    "artifact_id": "COMMONS_2969302",
+    "artifact_id_raw": "COMMONS_2969302"
+  },
+  {
+    "image_id": "IMG_483659",
+    "artifact_id": "COMMONS_483659",
+    "artifact_id_raw": "COMMONS_483659"
+  },
+  {
+    "image_id": "IMG_483668",
+    "artifact_id": "COMMONS_483668",
+    "artifact_id_raw": "COMMONS_483668"
+  },
+  {
+    "image_id": "IMG_483688",
+    "artifact_id": "COMMONS_483688",
+    "artifact_id_raw": "COMMONS_483688"
+  },
+  {
+    "image_id": "IMG_64805124",
+    "artifact_id": "COMMONS_64805124",
+    "artifact_id_raw": "COMMONS_64805124"
+  },
+  {
+    "image_id": "IMG_64805123",
+    "artifact_id": "COMMONS_64805123",
+    "artifact_id_raw": "COMMONS_64805123"
+  },
+  {
+    "image_id": "IMG_15251017",
+    "artifact_id": "COMMONS_15251017",
+    "artifact_id_raw": "COMMONS_15251017"
+  },
+  {
+    "image_id": "IMG_15251019",
+    "artifact_id": "COMMONS_15251019",
+    "artifact_id_raw": "COMMONS_15251019"
+  },
+  {
+    "image_id": "IMG_15247627",
+    "artifact_id": "COMMONS_15247627",
+    "artifact_id_raw": "COMMONS_15247627"
   }
 ]

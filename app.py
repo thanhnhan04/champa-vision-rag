@@ -180,7 +180,7 @@ def letterbox_pad(img: Image.Image, target_size=(224, 224), pad_color=(128, 128,
     padded.paste(resized, (paste_x, paste_y))
     return padded
 
-@st.cache_resource(show_spinner="Đang nạp thư viện Embeddings Gallery (428 ảnh)...")
+@st.cache_resource(show_spinner="Đang nạp thư viện Embeddings Gallery...")
 def load_gallery_embeddings(valid_idx):
     emb_dir = Path("embeddings")
     # 1. Baseline embeddings (CenterCrop mặc định)
@@ -438,10 +438,12 @@ st.markdown('<div class="main-title">Hệ Thống Truy Xuất Hình Ảnh & Thuy
 st.markdown('<div class="sub-title">Ứng dụng đa phương thức kết hợp <b>Visual Retrieval</b> (DINOv2, CLIP, SigLIP) và <b>RAG có Trích dẫn Khoa học</b> phục vụ bảo tàng và nghiên cứu di sản.</div>', unsafe_allow_html=True)
 
 # Thanh nhãn thông số dự án
-st.markdown("""
+total_imgs = len(meta_df)
+total_arts = meta_df["artifact_id"].nunique()
+st.markdown(f"""
 <div class="badge-bar">
-    <span class="badge-item gold-badge">🏛️ Thư viện: 428 ảnh sạch (247 Hiện vật)</span>
-    <span class="badge-item green-badge">📜 Tri thức RAG: 40 Đoạn Giám định Chuẩn</span>
+    <span class="badge-item gold-badge">🏛️ Thư viện: {total_imgs} ảnh sạch ({total_arts} Hiện vật)</span>
+    <span class="badge-item green-badge">📜 Tri thức RAG: 48 Đoạn Giám định Chuẩn</span>
     <span class="badge-item">👁️ Visual Backbone: ViT Multi-Encoder</span>
     <span class="badge-item green-badge">🎯 Citation Precision: 100.0%</span>
     <span class="badge-item gold-badge">🛡️ Hallucination: 0.0%</span>
@@ -825,7 +827,7 @@ with tab3:
             st.info("Chưa tìm thấy tệp data/label_audit_log.csv")
 
     with k_tab3:
-        st.markdown("Bản kê khai bản quyền 428 hình ảnh tuân thủ giấy phép Creative Commons & Dữ liệu Công quyền:")
+        st.markdown(f"Bản kê khai bản quyền {len(meta_df)} hình ảnh tuân thủ giấy phép Creative Commons & Dữ liệu Công quyền:")
         attr_path = Path("data/attribution_manifest.csv")
         if attr_path.exists():
             attr_df = pd.read_csv(attr_path)
